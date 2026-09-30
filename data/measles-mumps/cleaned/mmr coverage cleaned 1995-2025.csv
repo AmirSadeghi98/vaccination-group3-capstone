@@ -1,0 +1,1543 @@
+Year,Vaccine,State,MMR_Coverage,Population_Size,Percent_Surveyed
+1995,MMR,Alabama,77,,
+1996,MMR,Alabama,91,,
+1997,MMR,Alabama,92,,
+1998,MMR,Alabama,95,,
+1999,MMR,Alabama,79.7,,
+2000,MMR,Alabama,87.8,,
+2001,MMR,Alabama,94,,
+2002,MMR,Alabama,80.8,,
+2003,MMR,Alabama,82.7,,
+2004,MMR,Alabama,84.1,,
+2005,MMR,Alabama,86,,
+2006,MMR,Alabama,94,,
+2007,MMR,Alabama,95,,
+2008,MMR,Alabama,75.1,,
+2009,MMR,Alabama,94,75358,100
+2010,MMR,Alabama,,,
+2011,MMR,Alabama,93.6,73190,100
+2012,MMR,Alabama,92.8,72929,100
+2013,MMR,Alabama,92,76927,100
+2014,MMR,Alabama,93.5,59660,100
+2015,MMR,Alabama,93.1,60392,100
+2016,MMR,Alabama,93.8,58394,100
+2017,MMR,Alabama,92.7,57245,100
+2018,MMR,Alabama,90.6,77739,100
+2019,MMR,Alabama,86.6,59477,94.9
+2020,MMR,Alabama,94.7,56974,100
+2021,MMR,Alabama,94.9,60332,100
+2022,MMR,Alabama,93.9,59113,100
+2023,MMR,Alabama,93.8,54565,100
+2024,MMR,Alabama,95.2,53589,99.9
+2025,MMR,Alabama,94.3,53378,100
+1995,MMR,Alaska,74,,
+1996,MMR,Alaska,85,,
+1997,MMR,Alaska,87,,
+1998,MMR,Alaska,91.1,,
+1999,MMR,Alaska,82.2,,
+2000,MMR,Alaska,88.8,,
+2001,MMR,Alaska,87.8,,
+2002,MMR,Alaska,78.3,,
+2003,MMR,Alaska,81.9,,
+2004,MMR,Alaska,78.2,,
+2005,MMR,Alaska,80.3,,
+2006,MMR,Alaska,85.8,,
+2007,MMR,Alaska,89.7,,
+2008,MMR,Alaska,69.2,,
+2009,MMR,Alaska,,9641,76.4
+2010,MMR,Alaska,,,
+2011,MMR,Alaska,,10286,7.3
+2012,MMR,Alaska,,10319,97.8
+2013,MMR,Alaska,94.4,10222,9.3
+2014,MMR,Alaska,92.7,10129,7.8
+2015,MMR,Alaska,93.5,9937,7.8
+2016,MMR,Alaska,89,9815,7.6
+2017,MMR,Alaska,91.6,9692,84.4
+2019,MMR,Alaska,NR,10381,82.7
+2021,MMR,Alaska,78,9790,76.2
+2022,MMR,Alaska,83.6,9650,88.8
+2023,MMR,Alaska,84.3,8644,88.9
+2024,MMR,Alaska,81.2,7338,99.8
+2025,MMR,Alaska,89.9,8253,60.9
+1995,MMR,Arizona,73,,
+1996,MMR,Arizona,86,,
+1997,MMR,Arizona,88,,
+1998,MMR,Arizona,88,,
+1999,MMR,Arizona,73.9,,
+2000,MMR,Arizona,87.7,,
+2001,MMR,Arizona,88.7,,
+2002,MMR,Arizona,70,,
+2003,MMR,Arizona,78.9,,
+2004,MMR,Arizona,81.8,,
+2005,MMR,Arizona,81.5,,
+2006,MMR,Arizona,87.8,,
+2007,MMR,Arizona,89,,
+2008,MMR,Arizona,76.4,,
+2009,MMR,Arizona,95,89287,93.9
+2010,MMR,Arizona,,,
+2011,MMR,Arizona,94.7,88293,96.9
+2012,MMR,Arizona,94.5,90054,97.6
+2013,MMR,Arizona,93.9,89606,95.8
+2014,MMR,Arizona,94.2,86153,98.3
+2015,MMR,Arizona,94.2,83088,100
+2016,MMR,Arizona,94,83627,100
+2017,MMR,Arizona,93.4,81710,100
+2018,MMR,Arizona,92.9,79981,100
+2019,MMR,Arizona,92.8,83976,98.7
+2020,MMR,Arizona,91.9,76382,92.4
+2021,MMR,Arizona,90.6,83463,97
+2022,MMR,Arizona,89.9,80814,97.7
+2023,MMR,Arizona,89.3,74834,99.6
+2024,MMR,Arizona,88.6,75024,97.4
+2025,MMR,Arizona,87.4,73907,92.5
+1995,MMR,Arkansas,74,,
+1996,MMR,Arkansas,87,,
+1997,MMR,Arkansas,92,,
+1998,MMR,Arkansas,87.9,,
+1999,MMR,Arkansas,78.5,,
+2000,MMR,Arkansas,88.4,,
+2001,MMR,Arkansas,90.3,,
+2002,MMR,Arkansas,74.6,,
+2003,MMR,Arkansas,79.7,,
+2004,MMR,Arkansas,84.9,,
+2005,MMR,Arkansas,70.3,,
+2006,MMR,Arkansas,85.9,,
+2007,MMR,Arkansas,92.5,,
+2008,MMR,Arkansas,75.5,,
+2009,MMR,Arkansas,98.3,34733,100
+2010,MMR,Arkansas,,,
+2011,MMR,Arkansas,94.9,38754,92.2
+2012,MMR,Arkansas,85.9,43212,96.3
+2013,MMR,Arkansas,86.5,42649,96.3
+2014,MMR,Arkansas,88.4,41252,95.9
+2015,MMR,Arkansas,90.8,40258,95.6
+2016,MMR,Arkansas,91.9,39666,75.9
+2017,MMR,Arkansas,91.9,39630,95.4
+2018,MMR,Arkansas,94.2,39257,95.4
+2019,MMR,Arkansas,94.3,39510,96.2
+2020,MMR,Arkansas,93.2,37540,95.6
+2021,MMR,Arkansas,92.5,39358,96.3
+2022,MMR,Arkansas,91.9,38358,95.8
+2023,MMR,Arkansas,92.5,37535,95.4
+2024,MMR,Arkansas,89.6,37570,96.4
+2025,MMR,Arkansas,91.5,35543,96.7
+1995,MMR,California,71,,
+1996,MMR,California,90,,
+1997,MMR,California,89,,
+1998,MMR,California,91.5,,
+1999,MMR,California,78.3,,
+2000,MMR,California,90.8,,
+2001,MMR,California,91.3,,
+2002,MMR,California,77.5,,
+2003,MMR,California,81.2,,
+2004,MMR,California,84.1,,
+2005,MMR,California,80.5,,
+2006,MMR,California,92.9,,
+2007,MMR,California,94.6,,
+2008,MMR,California,78.7,,
+2009,MMR,California,93.6,507191,100
+2010,MMR,California,,,
+2011,MMR,California,93.2,542544,97.6
+2012,MMR,California,92.7,535523,99
+2013,MMR,California,92.3,548606,97.3
+2014,MMR,California,92.6,552583,96.9
+2015,MMR,California,94.5,593788,92.8
+2016,MMR,California,97.3,575305,97.8
+2017,MMR,California,96.9,574702,100
+2018,MMR,California,96.5,568947,97.7
+2019,MMR,California,96.5,566155,97.9
+2020,MMR,California,95.1,498214,97.5
+2021,MMR,California,96.3,512144,98.4
+2022,MMR,California,96.5,541132,100
+2023,MMR,California,96.2,569680,100
+2024,MMR,California,96.1,590849,100
+2025,MMR,California,95.7,614405,100
+1995,MMR,Colorado,78,,
+1996,MMR,Colorado,89,,
+1997,MMR,Colorado,94,,
+1998,MMR,Colorado,93.3,,
+1999,MMR,Colorado,77.2,,
+2000,MMR,Colorado,87.2,,
+2001,MMR,Colorado,92.1,,
+2002,MMR,Colorado,64.7,,
+2003,MMR,Colorado,69.6,,
+2004,MMR,Colorado,80.1,,
+2005,MMR,Colorado,85.1,,
+2006,MMR,Colorado,88.2,,
+2007,MMR,Colorado,91.2,,
+2008,MMR,Colorado,79.4,,
+2009,MMR,Colorado,,,
+2010,MMR,Colorado,,,
+2011,MMR,Colorado,86.8,70142,0.5
+2012,MMR,Colorado,85.7,70657,0.5
+2013,MMR,Colorado,81.7,69904,0.5
+2014,MMR,Colorado,86.9,70597,0.5
+2015,MMR,Colorado,87.1,69137,0.5
+2016,MMR,Colorado,87.3,64440,100
+2017,MMR,Colorado,88.7,65718,100
+2018,MMR,Colorado,87.4,64191,100
+2019,MMR,Colorado,91.1,69088,98.2
+2020,MMR,Colorado,90.5,63619,97.3
+2021,MMR,Colorado,88.4,66900,97.5
+2022,MMR,Colorado,87,65576,97.2
+2023,MMR,Colorado,88.3,61662,100
+2024,MMR,Colorado,88,60055,100
+2025,MMR,Colorado,87.7,60049,100
+1995,MMR,Connecticut,85,,
+1996,MMR,Connecticut,96,,
+1997,MMR,Connecticut,94,,
+1998,MMR,Connecticut,96.6,,
+1999,MMR,Connecticut,87.1,,
+2000,MMR,Connecticut,95.9,,
+2001,MMR,Connecticut,93.9,,
+2002,MMR,Connecticut,86.1,,
+2003,MMR,Connecticut,95,,
+2004,MMR,Connecticut,88.9,,
+2005,MMR,Connecticut,89.4,,
+2006,MMR,Connecticut,96.5,,
+2007,MMR,Connecticut,95.3,,
+2008,MMR,Connecticut,69.8,,
+2009,MMR,Connecticut,98.5,46158,100
+2010,MMR,Connecticut,,,
+2011,MMR,Connecticut,97.4,45695,100
+2012,MMR,Connecticut,97.1,41604,100
+2013,MMR,Connecticut,96.9,40978,100
+2014,MMR,Connecticut,97,39948,100
+2015,MMR,Connecticut,97,39533,100
+2016,MMR,Connecticut,96.7,39002,100
+2017,MMR,Connecticut,96.5,39174,100
+2018,MMR,Connecticut,95.9,38230,100
+2019,MMR,Connecticut,96.2,38888,100
+2020,MMR,Connecticut,95.3,34396,100
+2021,MMR,Connecticut,95.7,35451,100
+2022,MMR,Connecticut,97.3,35580,100
+2023,MMR,Connecticut,97.7,36184,100
+2024,MMR,Connecticut,98.2,30112,100
+2025,MMR,Connecticut,98.6,33118,100
+1995,MMR,Delaware,75,,
+1996,MMR,Delaware,90,,
+1997,MMR,Delaware,91,,
+1998,MMR,Delaware,94.1,,
+1999,MMR,Delaware,80,,
+2000,MMR,Delaware,90.2,,
+2001,MMR,Delaware,93.6,,
+2002,MMR,Delaware,84.8,,
+2003,MMR,Delaware,80.1,,
+2004,MMR,Delaware,86.4,,
+2005,MMR,Delaware,86.7,,
+2006,MMR,Delaware,96.5,,
+2007,MMR,Delaware,94.8,,
+2008,MMR,Delaware,71.8,,
+2009,MMR,Delaware,89.7,11327,9.2
+2010,MMR,Delaware,,,
+2011,MMR,Delaware,96.9,11327,7.4
+2012,MMR,Delaware,95.7,11997,7.8
+2013,MMR,Delaware,96.4,11997,12.2
+2014,MMR,Delaware,97.8,11476,7.9
+2015,MMR,Delaware,97.6,11589,9.5
+2016,MMR,Delaware,98.5,11490,9.3
+2017,MMR,Delaware,96.7,10988,9.5
+2018,MMR,Delaware,97.8,10798,9.5
+2019,MMR,Delaware,,,
+2020,MMR,Delaware,95.7,10587,9.2
+2021,MMR,Delaware,96.4,11181,9.5
+2022,MMR,Delaware,95.1,10674,9.7
+2023,MMR,Delaware,93.8,11043,12.1
+2024,MMR,Delaware,94.1,10393,14.2
+2025,MMR,Delaware,93.5,10729,12.9
+1995,MMR,Florida,76,,
+1996,MMR,Florida,90,,
+1997,MMR,Florida,91,,
+1998,MMR,Florida,92.3,,
+1999,MMR,Florida,82,,
+2000,MMR,Florida,89.1,,
+2001,MMR,Florida,91.4,,
+2002,MMR,Florida,78,,
+2003,MMR,Florida,83.8,,
+2004,MMR,Florida,90.1,,
+2005,MMR,Florida,81.5,,
+2006,MMR,Florida,91.8,,
+2007,MMR,Florida,92.3,,
+2008,MMR,Florida,79.9,,
+2009,MMR,Florida,91.3,218630,100
+2010,MMR,Florida,,,
+2011,MMR,Florida,92.6,225532,100
+2012,MMR,Florida,92.1,234628,100
+2013,MMR,Florida,93.2,233797,100
+2014,MMR,Florida,93.3,228982,100
+2015,MMR,Florida,93.7,224430,100
+2016,MMR,Florida,94.1,224463,100
+2017,MMR,Florida,93.7,222397,100
+2018,MMR,Florida,93.8,224641,100
+2019,MMR,Florida,93.5,228298,100
+2020,MMR,Florida,93.3,207026,100
+2021,MMR,Florida,91.7,229432,97.8
+2022,MMR,Florida,90.6,230309,97.7
+2023,MMR,Florida,88.1,228213,100
+2024,MMR,Florida,88.8,221053,100
+2025,MMR,Florida,88.9,213535,100
+1995,MMR,Georgia,78,,
+1996,MMR,Georgia,92,,
+1997,MMR,Georgia,92,,
+1998,MMR,Georgia,91.7,,
+1999,MMR,Georgia,83.1,,
+2000,MMR,Georgia,91.1,,
+2001,MMR,Georgia,90.1,,
+2002,MMR,Georgia,83.4,,
+2003,MMR,Georgia,77.1,,
+2004,MMR,Georgia,86.7,,
+2005,MMR,Georgia,86.2,,
+2006,MMR,Georgia,91,,
+2007,MMR,Georgia,91.4,,
+2008,MMR,Georgia,71.9,,
+2009,MMR,Georgia,99.6,141949,1.2
+2010,MMR,Georgia,,,
+2011,MMR,Georgia,96.6,143065,1.9
+2012,MMR,Georgia,95.1,142732,2.4
+2013,MMR,Georgia,94,143988,100
+2014,MMR,Georgia,94,139471,100
+2015,MMR,Georgia,94.6,131403,100
+2016,MMR,Georgia,93.3,136165,100
+2017,MMR,Georgia,93.4,131459,100
+2018,MMR,Georgia,93.6,131275,100
+2019,MMR,Georgia,93.1,130102,100
+2020,MMR,Georgia,88.5,83191,100
+2021,MMR,Georgia,83.2,118742,100
+2022,MMR,Georgia,88.1,123771,100
+2023,MMR,Georgia,88.4,136943,100
+2024,MMR,Georgia,86.8,114568,100
+2025,MMR,Georgia,89.1,118864,100
+1995,MMR,Hawaii,81,,
+1996,MMR,Hawaii,92,,
+1997,MMR,Hawaii,93,,
+1998,MMR,Hawaii,94.9,,
+1999,MMR,Hawaii,82.8,,
+2000,MMR,Hawaii,93.7,,
+2001,MMR,Hawaii,90.6,,
+2002,MMR,Hawaii,81.3,,
+2003,MMR,Hawaii,83.3,,
+2004,MMR,Hawaii,83.4,,
+2005,MMR,Hawaii,81.4,,
+2006,MMR,Hawaii,89.9,,
+2007,MMR,Hawaii,93.8,,
+2008,MMR,Hawaii,77.4,,
+2009,MMR,Hawaii,,18427,6.4
+2010,MMR,Hawaii,,,
+2011,MMR,Hawaii,,19443,7.7
+2012,MMR,Hawaii,,20104,6.7
+2013,MMR,Hawaii,,20056,5.4
+2014,MMR,Hawaii,,20085,5.6
+2015,MMR,Hawaii,91.6,16325,6.7
+2016,MMR,Hawaii,93.5,16325,6.7
+2017,MMR,Hawaii,95.6,16325,6.6
+2018,MMR,Hawaii,91.5,16051,6.7
+2019,MMR,Hawaii,89.7,15695,8.9
+2020,MMR,Hawaii,90.7,13074,9.3
+2021,MMR,Hawaii,94.3,13368,6.7
+2022,MMR,Hawaii,86.4,13195,8.1
+2023,MMR,Hawaii,89.8,13995,8.2
+2024,MMR,Hawaii,90.1,13804,10.5
+2025,MMR,Hawaii,89.3,13791,11.7
+1995,MMR,Idaho,66,,
+1996,MMR,Idaho,84,,
+1997,MMR,Idaho,89,,
+1998,MMR,Idaho,90.7,,
+1999,MMR,Idaho,70,,
+2000,MMR,Idaho,88,,
+2001,MMR,Idaho,88.6,,
+2002,MMR,Idaho,73.9,,
+2003,MMR,Idaho,82.5,,
+2004,MMR,Idaho,82.8,,
+2005,MMR,Idaho,79.3,,
+2006,MMR,Idaho,88.2,,
+2007,MMR,Idaho,86.1,,
+2008,MMR,Idaho,60.4,,
+2009,MMR,Idaho,87,22624,100
+2010,MMR,Idaho,,,
+2011,MMR,Idaho,89.2,22762,100
+2012,MMR,Idaho,88.4,23888,100
+2013,MMR,Idaho,88.2,23934,100
+2014,MMR,Idaho,89.5,22968,100
+2015,MMR,Idaho,90.2,22686,100
+2016,MMR,Idaho,89.9,22589,100
+2017,MMR,Idaho,89.5,22553,99
+2018,MMR,Idaho,89.5,22995,99
+2019,MMR,Idaho,89.1,23301,98.5
+2020,MMR,Idaho,86.5,22677,98.3
+2021,MMR,Idaho,83.9,23854,99.6
+2022,MMR,Idaho,81.3,23721,99.3
+2023,MMR,Idaho,79.6,22376,100
+2024,MMR,Idaho,78.5,22242,99.5
+2025,MMR,Idaho,75.2,21728,100
+1995,MMR,Illinois,81,,
+1996,MMR,Illinois,90,,
+1997,MMR,Illinois,89,,
+1998,MMR,Illinois,91.3,,
+1999,MMR,Illinois,78.8,,
+2000,MMR,Illinois,91.5,,
+2001,MMR,Illinois,89,,
+2002,MMR,Illinois,80.4,,
+2003,MMR,Illinois,84.9,,
+2004,MMR,Illinois,86.4,,
+2005,MMR,Illinois,84.9,,
+2006,MMR,Illinois,89.2,,
+2007,MMR,Illinois,93.1,,
+2008,MMR,Illinois,74.8,,
+2009,MMR,Illinois,94.5,165845,100
+2010,MMR,Illinois,,,
+2011,MMR,Illinois,97.3,163311,100
+2012,MMR,Illinois,95.5,166884,100
+2013,MMR,Illinois,94.7,163316,100
+2014,MMR,Illinois,94.7,156942,100
+2015,MMR,Illinois,94.9,151309,100
+2016,MMR,Illinois,94.9,151309,97.7
+2017,MMR,Illinois,95.2,144858,100
+2018,MMR,Illinois,94.7,143876,100
+2019,MMR,Illinois,96.6,145891,100
+2020,MMR,Illinois,NR,,
+2021,MMR,Illinois,92.1,137699,100
+2022,MMR,Illinois,91.7,135332,100
+2023,MMR,Illinois,91.6,133578,100
+2024,MMR,Illinois,91.8,132769,99.5
+2025,MMR,Illinois,92.8,128598,99.8
+1995,MMR,Indiana,76,,
+1996,MMR,Indiana,87,,
+1997,MMR,Indiana,89,,
+1998,MMR,Indiana,92.9,,
+1999,MMR,Indiana,75.4,,
+2000,MMR,Indiana,91.1,,
+2001,MMR,Indiana,91.1,,
+2002,MMR,Indiana,79.2,,
+2003,MMR,Indiana,82,,
+2004,MMR,Indiana,81.3,,
+2005,MMR,Indiana,78.9,,
+2006,MMR,Indiana,89.5,,
+2007,MMR,Indiana,90.4,,
+2008,MMR,Indiana,75.5,,
+2009,MMR,Indiana,92.8,84390,94.7
+2010,MMR,Indiana,,,
+2011,MMR,Indiana,93.3,83416,67.5
+2012,MMR,Indiana,95.4,86983,83.4
+2013,MMR,Indiana,92.9,87193,70.3
+2014,MMR,Indiana,89.3,85477,70.1
+2015,MMR,Indiana,89.2,83525,69.5
+2016,MMR,Indiana,88.9,83263,80.3
+2017,MMR,Indiana,90.4,84296,96.4
+2018,MMR,Indiana,91.2,82324,96.4
+2019,MMR,Indiana,94.4,88253,65.7
+2020,MMR,Indiana,93.1,78694,71.4
+2021,MMR,Indiana,92.1,83198,75.1
+2022,MMR,Indiana,92,81307,87.5
+2023,MMR,Indiana,90.8,80639,88.5
+2024,MMR,Indiana,90.8,73744,92.7
+2025,MMR,Indiana,90.1,70886,87.1
+1995,MMR,Iowa,83,,
+1996,MMR,Iowa,92,,
+1997,MMR,Iowa,89,,
+1998,MMR,Iowa,92.5,,
+1999,MMR,Iowa,84.5,,
+2000,MMR,Iowa,92.7,,
+2001,MMR,Iowa,89.2,,
+2002,MMR,Iowa,80.7,,
+2003,MMR,Iowa,84.5,,
+2004,MMR,Iowa,88,,
+2005,MMR,Iowa,85.7,,
+2006,MMR,Iowa,90.4,,
+2007,MMR,Iowa,93,,
+2008,MMR,Iowa,74.7,,
+2009,MMR,Iowa,84.5,42698,100
+2010,MMR,Iowa,,,
+2011,MMR,Iowa,91.1,40978,100
+2012,MMR,Iowa,90.5,41701,99.9
+2013,MMR,Iowa,91,43728,94.6
+2014,MMR,Iowa,91.9,43239,96.3
+2015,MMR,Iowa,91.8,41215,100
+2016,MMR,Iowa,92.6,39587,100
+2017,MMR,Iowa,93,39632,100
+2018,MMR,Iowa,93.3,40624,100
+2019,MMR,Iowa,93.2,40812,100
+2020,MMR,Iowa,93.4,39141,100
+2021,MMR,Iowa,90.6,40111,100
+2022,MMR,Iowa,89.9,39178,100
+2023,MMR,Iowa,89.1,38611,100
+2024,MMR,Iowa,88.8,38268,100
+2025,MMR,Iowa,88.9,37490,100
+1995,MMR,Kansas,72,,
+1996,MMR,Kansas,88,,
+1997,MMR,Kansas,93,,
+1998,MMR,Kansas,90.8,,
+1999,MMR,Kansas,79.7,,
+2000,MMR,Kansas,87.1,,
+2001,MMR,Kansas,90.4,,
+2002,MMR,Kansas,74,,
+2003,MMR,Kansas,78.1,,
+2004,MMR,Kansas,80.6,,
+2005,MMR,Kansas,87.5,,
+2006,MMR,Kansas,92.8,,
+2007,MMR,Kansas,93.1,,
+2008,MMR,Kansas,76.7,,
+2009,MMR,Kansas,90.9,39073,39.1
+2010,MMR,Kansas,,,
+2011,MMR,Kansas,88.2,38402,52.7
+2012,MMR,Kansas,90,40738,31.8
+2013,MMR,Kansas,86.9,41107,29
+2014,MMR,Kansas,89.2,39685,24.5
+2015,MMR,Kansas,89.4,39555,21
+2016,MMR,Kansas,89.5,38298,22.9
+2017,MMR,Kansas,89.1,38484,23.1
+2018,MMR,Kansas,90.8,37838,23.1
+2019,MMR,Kansas,90,37865,34.3
+2020,MMR,Kansas,92.6,34687,32.7
+2021,MMR,Kansas,91,36526,29.5
+2022,MMR,Kansas,91.6,35543,30.8
+2023,MMR,Kansas,90.4,34178,37.1
+2024,MMR,Kansas,91,33892,29.2
+2025,MMR,Kansas,,,
+1995,MMR,Kentucky,80,,
+1996,MMR,Kentucky,91,,
+1997,MMR,Kentucky,90,,
+1998,MMR,Kentucky,91.6,,
+1999,MMR,Kentucky,88.6,,
+2000,MMR,Kentucky,88.6,,
+2001,MMR,Kentucky,91.6,,
+2002,MMR,Kentucky,74.4,,
+2003,MMR,Kentucky,82.7,,
+2004,MMR,Kentucky,80.4,,
+2005,MMR,Kentucky,84.8,,
+2006,MMR,Kentucky,91.8,,
+2007,MMR,Kentucky,90.8,,
+2008,MMR,Kentucky,74.1,,
+2009,MMR,Kentucky,92.2,56526,92.9
+2010,MMR,Kentucky,,,
+2011,MMR,Kentucky,92,58185,91.8
+2012,MMR,Kentucky,92.4,58466,97.2
+2013,MMR,Kentucky,92.6,57857,100
+2014,MMR,Kentucky,92.7,57884,97.2
+2015,MMR,Kentucky,92.2,54353,99.5
+2016,MMR,Kentucky,90.8,51487,92.9
+2017,MMR,Kentucky,92.6,55152,99
+2018,MMR,Kentucky,93.4,55587,99
+2019,MMR,Kentucky,93.1,59233,92.9
+2020,MMR,Kentucky,88.9,59233,86.4
+2021,MMR,Kentucky,86.5,59233,91.5
+2022,MMR,Kentucky,90.1,54742,96.9
+2023,MMR,Kentucky,90,52609,100
+2024,MMR,Kentucky,86.9,51319,100
+2025,MMR,Kentucky,91.1,49937,100
+1995,MMR,Louisiana,77,,
+1996,MMR,Louisiana,89,,
+1997,MMR,Louisiana,88,,
+1998,MMR,Louisiana,88.3,,
+1999,MMR,Louisiana,76.9,,
+2000,MMR,Louisiana,87.7,,
+2001,MMR,Louisiana,84.7,,
+2002,MMR,Louisiana,69.8,,
+2003,MMR,Louisiana,72.7,,
+2004,MMR,Louisiana,76.9,,
+2005,MMR,Louisiana,78.2,,
+2006,MMR,Louisiana,88.9,,
+2007,MMR,Louisiana,92.9,,
+2008,MMR,Louisiana,81.9,,
+2009,MMR,Louisiana,96.9,53846,100
+2010,MMR,Louisiana,,,
+2011,MMR,Louisiana,98.1,69013,100
+2012,MMR,Louisiana,96.6,68874,100
+2013,MMR,Louisiana,96.8,63976,100
+2014,MMR,Louisiana,96.8,60377,100
+2015,MMR,Louisiana,96.8,59159,100
+2016,MMR,Louisiana,97.1,55257,100
+2017,MMR,Louisiana,96.1,58277,100
+2018,MMR,Louisiana,95.5,56203,100
+2019,MMR,Louisiana,95.6,59685,100
+2020,MMR,Louisiana,96.2,61912,100
+2021,MMR,Louisiana,93.7,66518,100
+2022,MMR,Louisiana,92.2,54314,100
+2023,MMR,Louisiana,92.4,51839,100
+2024,MMR,Louisiana,92.6,49229,100
+2025,MMR,Louisiana,90.3,50223,100
+1995,MMR,Maine,89,,
+1996,MMR,Maine,95,,
+1997,MMR,Maine,95,,
+1998,MMR,Maine,93.6,,
+1999,MMR,Maine,84.1,,
+2000,MMR,Maine,94,,
+2001,MMR,Maine,94.2,,
+2002,MMR,Maine,83.7,,
+2003,MMR,Maine,84.1,,
+2004,MMR,Maine,86.2,,
+2005,MMR,Maine,88.8,,
+2006,MMR,Maine,92.2,,
+2007,MMR,Maine,90.2,,
+2008,MMR,Maine,73.6,,
+2009,MMR,Maine,95.5,14162,75.3
+2010,MMR,Maine,,,
+2011,MMR,Maine,93,13829,97
+2012,MMR,Maine,91.3,14313,94.6
+2013,MMR,Maine,89.9,15441,82.4
+2014,MMR,Maine,92.1,13704,88.9
+2015,MMR,Maine,95.1,13526,90.5
+2016,MMR,Maine,94.9,13834,90.1
+2017,MMR,Maine,94.3,13255,95.9
+2018,MMR,Maine,93.8,13419,95.9
+2019,MMR,Maine,94.1,13450,99.6
+2020,MMR,Maine,94.3,13477,85
+2021,MMR,Maine,96.7,12881,91.6
+2022,MMR,Maine,96.8,12403,93.9
+2023,MMR,Maine,97.5,12087,93
+2024,MMR,Maine,97.6,11761,95.4
+2025,MMR,Maine,98,11634,94.4
+1995,MMR,Maryland,81,,
+1996,MMR,Maryland,91,,
+1997,MMR,Maryland,94,,
+1998,MMR,Maryland,89.1,,
+1999,MMR,Maryland,80.5,,
+2000,MMR,Maryland,90.9,,
+2001,MMR,Maryland,92.9,,
+2002,MMR,Maryland,81.8,,
+2003,MMR,Maryland,84.6,,
+2004,MMR,Maryland,81.3,,
+2005,MMR,Maryland,84.3,,
+2006,MMR,Maryland,96.1,,
+2007,MMR,Maryland,97.1,,
+2008,MMR,Maryland,80.2,,
+2009,MMR,Maryland,98.9,75061,75
+2010,MMR,Maryland,,,
+2011,MMR,Maryland,98.7,72957,67.2
+2012,MMR,Maryland,98.2,75007,84.3
+2013,MMR,Maryland,97.6,75659,96.9
+2014,MMR,Maryland,99.1,75391,90.2
+2015,MMR,Maryland,99.4,72012,94.3
+2016,MMR,Maryland,97.9,71467,98.1
+2017,MMR,Maryland,97.4,68528,98.5
+2018,MMR,Maryland,97.4,71431,100
+2019,MMR,Maryland,97.9,72443,98.3
+2020,MMR,Maryland,87.6,65764,75.6
+2021,MMR,Maryland,93.9,53866,98.4
+2022,MMR,Maryland,96.7,59684,100
+2023,MMR,Maryland,96.6,63224,100
+2024,MMR,Maryland,96.4,66135,95.6
+2025,MMR,Maryland,96.6,66945,97.8
+1995,MMR,Massachusetts,81,,
+1996,MMR,Massachusetts,96,,
+1997,MMR,Massachusetts,95,,
+1998,MMR,Massachusetts,96,,
+1999,MMR,Massachusetts,87.3,,
+2000,MMR,Massachusetts,96.1,,
+2001,MMR,Massachusetts,92.8,,
+2002,MMR,Massachusetts,89.5,,
+2003,MMR,Massachusetts,92.5,,
+2004,MMR,Massachusetts,91.5,,
+2005,MMR,Massachusetts,95.6,,
+2006,MMR,Massachusetts,96.6,,
+2007,MMR,Massachusetts,93.3,,
+2008,MMR,Massachusetts,82.3,,
+2009,MMR,Massachusetts,93,74476,100
+2010,MMR,Massachusetts,,,
+2011,MMR,Massachusetts,94.2,79551,97.5
+2012,MMR,Massachusetts,94.8,79661,97.6
+2013,MMR,Massachusetts,95.1,79894,97.9
+2014,MMR,Massachusetts,94.7,74869,100
+2015,MMR,Massachusetts,96.4,72897,100
+2016,MMR,Massachusetts,96.1,70109,100
+2017,MMR,Massachusetts,96.3,63377,100
+2018,MMR,Massachusetts,96.9,65279,100
+2019,MMR,Massachusetts,97.3,66756,100
+2020,MMR,Massachusetts,95.9,60724,100
+2021,MMR,Massachusetts,96.2,65582,100
+2022,MMR,Massachusetts,96.5,66041,100
+2023,MMR,Massachusetts,96.3,65424,100
+2024,MMR,Massachusetts,96.6,65581,100
+2025,MMR,Massachusetts,96.5,65331,100
+1995,MMR,Michigan,70,,
+1996,MMR,Michigan,90,,
+1997,MMR,Michigan,89,,
+1998,MMR,Michigan,90.7,,
+1999,MMR,Michigan,75.9,,
+2000,MMR,Michigan,88.9,,
+2001,MMR,Michigan,88.6,,
+2002,MMR,Michigan,84.3,,
+2003,MMR,Michigan,83.3,,
+2004,MMR,Michigan,83.1,,
+2005,MMR,Michigan,84.5,,
+2006,MMR,Michigan,92.2,,
+2007,MMR,Michigan,89.5,,
+2008,MMR,Michigan,74.5,,
+2009,MMR,Michigan,95.3,129810,100
+2010,MMR,Michigan,,,
+2011,MMR,Michigan,95,124962,100
+2012,MMR,Michigan,94.4,124662,100
+2013,MMR,Michigan,97.5,120297,100
+2014,MMR,Michigan,94.3,117963,100
+2015,MMR,Michigan,95.7,116299,100
+2016,MMR,Michigan,95.6,118777,100
+2017,MMR,Michigan,95,119028,100
+2018,MMR,Michigan,94.6,118632,100
+2019,MMR,Michigan,94.8,120565,100
+2020,MMR,Michigan,94.6,106657,100
+2021,MMR,Michigan,93.6,114251,100
+2022,MMR,Michigan,92.9,113678,100
+2023,MMR,Michigan,92.1,110156,100
+2024,MMR,Michigan,91.6,107636,100
+2025,MMR,Michigan,90.9,104614,100
+1995,MMR,Minnesota,77,,
+1996,MMR,Minnesota,95,,
+1997,MMR,Minnesota,92,,
+1998,MMR,Minnesota,93.3,,
+1999,MMR,Minnesota,87,,
+2000,MMR,Minnesota,92.5,,
+2001,MMR,Minnesota,90.8,,
+2002,MMR,Minnesota,82.2,,
+2003,MMR,Minnesota,85.3,,
+2004,MMR,Minnesota,86.5,,
+2005,MMR,Minnesota,88.4,,
+2006,MMR,Minnesota,92.3,,
+2007,MMR,Minnesota,94.9,,
+2008,MMR,Minnesota,74.6,,
+2009,MMR,Minnesota,95.1,70653,100
+2010,MMR,Minnesota,,,
+2011,MMR,Minnesota,95.7,71213,99.2
+2012,MMR,Minnesota,96.3,73310,100
+2013,MMR,Minnesota,93.4,72087,98.5
+2014,MMR,Minnesota,93.5,70896,97.8
+2015,MMR,Minnesota,92.8,69710,97.8
+2016,MMR,Minnesota,92.8,69140,96.7
+2017,MMR,Minnesota,92.5,69807,98.1
+2018,MMR,Minnesota,92.6,70085,98.1
+2019,MMR,Minnesota,92.6,71223,98.7
+2020,MMR,Minnesota,89.8,66007,95.2
+2021,MMR,Minnesota,89,69403,98.7
+2022,MMR,Minnesota,87.6,68152,97.9
+2023,MMR,Minnesota,87,66032,99.1
+2024,MMR,Minnesota,86.5,64898,99.7
+2025,MMR,Minnesota,85.7,63451,99.9
+1995,MMR,Mississippi,83,,
+1996,MMR,Mississippi,93,,
+1997,MMR,Mississippi,90,,
+1998,MMR,Mississippi,93,,
+1999,MMR,Mississippi,81.7,,
+2000,MMR,Mississippi,90.3,,
+2001,MMR,Mississippi,93.3,,
+2002,MMR,Mississippi,77.8,,
+2003,MMR,Mississippi,84,,
+2004,MMR,Mississippi,86.4,,
+2005,MMR,Mississippi,85.1,,
+2006,MMR,Mississippi,88.4,,
+2007,MMR,Mississippi,87.2,,
+2008,MMR,Mississippi,75.8,,
+2009,MMR,Mississippi,99.7,46922,100
+2010,MMR,Mississippi,,,
+2011,MMR,Mississippi,99.2,44912,100
+2012,MMR,Mississippi,99.9,46595,100
+2013,MMR,Mississippi,99.7,45719,100
+2014,MMR,Mississippi,99.2,44129,100
+2015,MMR,Mississippi,99.4,41042,100
+2016,MMR,Mississippi,99.4,40509,100
+2017,MMR,Mississippi,99.4,39284,100
+2018,MMR,Mississippi,99.2,37775,100
+2019,MMR,Mississippi,99.1,37870,100
+2020,MMR,Mississippi,98.9,34028,100
+2021,MMR,Mississippi,98.6,36524,100
+2022,MMR,Mississippi,98.4,36048,100
+2023,MMR,Mississippi,97.5,36105,100
+2024,MMR,Mississippi,97.6,35293,100
+2025,MMR,Mississippi,97,34969,100
+1995,MMR,Missouri,76,,
+1996,MMR,Missouri,87,,
+1997,MMR,Missouri,90,,
+1998,MMR,Missouri,92.8,,
+1999,MMR,Missouri,75.5,,
+2000,MMR,Missouri,92.9,,
+2001,MMR,Missouri,90,,
+2002,MMR,Missouri,77.7,,
+2003,MMR,Missouri,84.9,,
+2004,MMR,Missouri,86,,
+2005,MMR,Missouri,82.2,,
+2006,MMR,Missouri,95.8,,
+2007,MMR,Missouri,89,,
+2008,MMR,Missouri,72.9,,
+2009,MMR,Missouri,97.3,75958,3
+2010,MMR,Missouri,,,
+2011,MMR,Missouri,96.8,75240,4.7
+2012,MMR,Missouri,96.7,78416,5.9
+2013,MMR,Missouri,95.5,78140,100
+2014,MMR,Missouri,95.8,75900,100
+2015,MMR,Missouri,95.7,74413,100
+2016,MMR,Missouri,95.4,73355,100
+2017,MMR,Missouri,95.2,73113,100
+2018,MMR,Missouri,94.8,72687,100
+2019,MMR,Missouri,94.6,72324,100
+2020,MMR,Missouri,92.6,63093,100
+2021,MMR,Missouri,91.6,71034,100
+2022,MMR,Missouri,91.3,69126,100
+2023,MMR,Missouri,90.4,69014,100
+2024,MMR,Missouri,90,68163,100
+2025,MMR,Missouri,89.5,66610,100
+1995,MMR,Montana,74,,
+1996,MMR,Montana,89,,
+1997,MMR,Montana,87,,
+1998,MMR,Montana,91.9,,
+1999,MMR,Montana,84.8,,
+2000,MMR,Montana,89.9,,
+2001,MMR,Montana,94.7,,
+2002,MMR,Montana,71.5,,
+2003,MMR,Montana,84.9,,
+2004,MMR,Montana,82.6,,
+2005,MMR,Montana,84.1,,
+2006,MMR,Montana,87.2,,
+2007,MMR,Montana,89.6,,
+2008,MMR,Montana,59.2,,
+2009,MMR,Montana,95.5,12335,98.8
+2010,MMR,Montana,,,
+2011,MMR,Montana,95,12128,100
+2012,MMR,Montana,94.8,12516,95.8
+2013,MMR,Montana,93.7,12855,95.4
+2014,MMR,Montana,94.6,12501,95.7
+2015,MMR,Montana,94.9,11484,100
+2016,MMR,Montana,93.8,11956,100
+2017,MMR,Montana,93.2,12188,100
+2018,MMR,Montana,93.3,12480,100
+2019,MMR,Montana,93.6,12501,100
+2020,MMR,Montana,92.9,11279,100
+1995,MMR,Nebraska,78,,
+1996,MMR,Nebraska,91,,
+1997,MMR,Nebraska,89,,
+1998,MMR,Nebraska,90.2,,
+1999,MMR,Nebraska,83.7,,
+2000,MMR,Nebraska,91.5,,
+2001,MMR,Nebraska,90.9,,
+2002,MMR,Nebraska,80.6,,
+2003,MMR,Nebraska,82.7,,
+2004,MMR,Nebraska,83,,
+2005,MMR,Nebraska,91,,
+2006,MMR,Nebraska,91.6,,
+2007,MMR,Nebraska,94,,
+2008,MMR,Nebraska,71.5,,
+2009,MMR,Nebraska,97.5,29607,96.4
+2010,MMR,Nebraska,,,
+2011,MMR,Nebraska,99,26715,96.6
+2012,MMR,Nebraska,96,24999,96.6
+2013,MMR,Nebraska,96.6,27000,97.3
+2014,MMR,Nebraska,96,26665,100
+2015,MMR,Nebraska,95.6,30409,100
+2016,MMR,Nebraska,96.7,27117,100
+2017,MMR,Nebraska,96.2,26313,98.6
+2018,MMR,Nebraska,96.9,26925,98.6
+2019,MMR,Nebraska,96.3,26893,96.7
+2020,MMR,Nebraska,95.5,25681,94.8
+2021,MMR,Nebraska,96.2,25018,99.5
+2022,MMR,Nebraska,95.1,23176,100
+2023,MMR,Nebraska,93.9,23118,100
+2024,MMR,Nebraska,94.2,24102,100
+2025,MMR,Nebraska,92.8,23807,100
+1995,MMR,Nevada,68,,
+1996,MMR,Nevada,86,,
+1997,MMR,Nevada,89,,
+1998,MMR,Nevada,91.6,,
+1999,MMR,Nevada,73.4,,
+2000,MMR,Nevada,88,,
+2001,MMR,Nevada,86,,
+2002,MMR,Nevada,78.4,,
+2003,MMR,Nevada,78.1,,
+2004,MMR,Nevada,71.3,,
+2005,MMR,Nevada,71.2,,
+2006,MMR,Nevada,84.9,,
+2007,MMR,Nevada,86.3,,
+2008,MMR,Nevada,67.8,,
+2009,MMR,Nevada,94.5,35209,5.6
+2010,MMR,Nevada,,,
+2011,MMR,Nevada,95.3,36557,5.2
+2012,MMR,Nevada,93.6,36070,4.3
+2013,MMR,Nevada,95.6,35782,3.1
+2014,MMR,Nevada,94,36755,2.8
+2015,MMR,Nevada,94.7,37118,3.3
+2016,MMR,Nevada,90.9,36885,3.7
+2017,MMR,Nevada,93,37178,4.8
+2018,MMR,Nevada,95.1,37971,4.8
+2019,MMR,Nevada,95.4,37724,99.9
+2020,MMR,Nevada,96.1,34171,94.7
+2021,MMR,Nevada,92.7,36855,99.2
+2022,MMR,Nevada,92.8,34333,89.1
+2023,MMR,Nevada,91.9,31261,91.3
+2024,MMR,Nevada,91.3,33272,92.6
+2025,MMR,Nevada,90.8,32815,93.6
+1995,MMR,New Hampshire,87,,
+1996,MMR,New Hampshire,94,,
+1997,MMR,New Hampshire,95,,
+1998,MMR,New Hampshire,94.8,,
+1999,MMR,New Hampshire,84.5,,
+2000,MMR,New Hampshire,94.9,,
+2001,MMR,New Hampshire,94.3,,
+2002,MMR,New Hampshire,88.1,,
+2003,MMR,New Hampshire,88.8,,
+2004,MMR,New Hampshire,89.5,,
+2005,MMR,New Hampshire,85,,
+2006,MMR,New Hampshire,93,,
+2007,MMR,New Hampshire,96.6,,
+2008,MMR,New Hampshire,81,,
+2009,MMR,New Hampshire,,,
+2010,MMR,New Hampshire,,,
+2011,MMR,New Hampshire,,13022,100
+2012,MMR,New Hampshire,,12943,99.2
+2013,MMR,New Hampshire,94.7,13240,100
+2014,MMR,New Hampshire,91.4,12422,98.9
+2015,MMR,New Hampshire,91.9,11852,99.8
+2016,MMR,New Hampshire,91.5,12145,100
+2017,MMR,New Hampshire,92.4,12165,100
+2018,MMR,New Hampshire,91.8,12421,100
+2019,MMR,New Hampshire,91.5,12447,100
+2020,MMR,New Hampshire,90.8,10242,57
+2021,MMR,New Hampshire,88.7,12157,100
+2022,MMR,New Hampshire,89.4,11332,100
+2023,MMR,New Hampshire,89.2,11871,100
+2024,MMR,New Hampshire,89.2,11713,100
+2025,MMR,New Hampshire,88.2,11544,100
+1995,MMR,New Jersey,75,,
+1996,MMR,New Jersey,90,,
+1997,MMR,New Jersey,93,,
+1998,MMR,New Jersey,96.1,,
+1999,MMR,New Jersey,80.9,,
+2000,MMR,New Jersey,88.5,,
+2001,MMR,New Jersey,91.1,,
+2002,MMR,New Jersey,81.9,,
+2003,MMR,New Jersey,77,,
+2004,MMR,New Jersey,84.1,,
+2005,MMR,New Jersey,79.3,,
+2006,MMR,New Jersey,91.3,,
+2007,MMR,New Jersey,91.2,,
+2008,MMR,New Jersey,68.5,,
+2009,MMR,New Jersey,,118347,95.1
+2010,MMR,New Jersey,,,
+2011,MMR,New Jersey,,118669,96.6
+2012,MMR,New Jersey,97,122516,96.7
+2013,MMR,New Jersey,96.8,123085,95.4
+2014,MMR,New Jersey,92.3,120471,93.9
+2015,MMR,New Jersey,96.3,110116,100
+2016,MMR,New Jersey,96.5,109577,100
+2017,MMR,New Jersey,96.1,107630,100
+2018,MMR,New Jersey,95,109161,100
+2019,MMR,New Jersey,95.9,107900,100
+2020,MMR,New Jersey,94.3,100144,100
+2021,MMR,New Jersey,94.1,104240,100
+2022,MMR,New Jersey,94.3,104468,100
+2023,MMR,New Jersey,93.2,105408,100
+2024,MMR,New Jersey,92.8,104339,100
+2025,MMR,New Jersey,92.5,101602,92.3
+1995,MMR,New Mexico,77,,
+1996,MMR,New Mexico,92,,
+1997,MMR,New Mexico,87,,
+1998,MMR,New Mexico,85.9,,
+1999,MMR,New Mexico,75.6,,
+2000,MMR,New Mexico,83,,
+2001,MMR,New Mexico,87.7,,
+2002,MMR,New Mexico,68.1,,
+2003,MMR,New Mexico,77.6,,
+2004,MMR,New Mexico,84.8,,
+2005,MMR,New Mexico,81.5,,
+2006,MMR,New Mexico,89.2,,
+2007,MMR,New Mexico,90.6,,
+2008,MMR,New Mexico,77,,
+2009,MMR,New Mexico,97.6,26318,2.2
+2010,MMR,New Mexico,,,
+2011,MMR,New Mexico,95.7,29159,2
+2012,MMR,New Mexico,93.9,29279,3.3
+2013,MMR,New Mexico,95.9,30725,2.7
+2014,MMR,New Mexico,97.7,29918,3.3
+2015,MMR,New Mexico,96.2,29049,2.7
+2016,MMR,New Mexico,95.5,27119,4.5
+2017,MMR,New Mexico,94.8,26896,99.6
+2018,MMR,New Mexico,96.1,25269,99.6
+2019,MMR,New Mexico,97,23087,100
+2020,MMR,New Mexico,95.7,20589,100
+2021,MMR,New Mexico,94.3,20736,100
+2022,MMR,New Mexico,94.9,21068,100
+2023,MMR,New Mexico,95,20699,100
+2024,MMR,New Mexico,94.8,20180,100
+2025,MMR,New Mexico,95.1,19843,100
+1995,MMR,New York,79,,
+1996,MMR,New York,94,,
+1997,MMR,New York,94,,
+1998,MMR,New York,95.1,,
+1999,MMR,New York,83.4,,
+2000,MMR,New York,94.1,,
+2001,MMR,New York,92.5,,
+2002,MMR,New York,81.8,,
+2003,MMR,New York,83.5,,
+2004,MMR,New York,84.6,,
+2005,MMR,New York,85,,
+2006,MMR,New York,95.5,,
+2007,MMR,New York,93.6,,
+2008,MMR,New York,73.3,,
+2009,MMR,New York,97.6,229273,100
+2010,MMR,New York,,,
+2011,MMR,New York,96.9,236016,100
+2012,MMR,New York,96.6,239484,100
+2013,MMR,New York,96.8,240318,100
+2014,MMR,New York,98.2,237045,100
+2015,MMR,New York,95.6,232521,100
+2016,MMR,New York,97.3,227050,100
+2017,MMR,New York,97.2,226456,100
+2018,MMR,New York,97.2,220495,100
+2019,MMR,New York,98.6,234165,99.9
+2020,MMR,New York,98.3,216804,91.5
+2021,MMR,New York,98,195377,99.3
+2022,MMR,New York,97.9,205906,96.6
+2023,MMR,New York,97.7,200894,98.8
+2024,MMR,New York,97.8,234054,85.1
+2025,MMR,New York,97.7,203514,95.8
+1995,MMR,North Carolina,81,,
+1996,MMR,North Carolina,89,,
+1997,MMR,North Carolina,94,,
+1998,MMR,North Carolina,95.6,,
+1999,MMR,North Carolina,81.8,,
+2000,MMR,North Carolina,94.8,,
+2001,MMR,North Carolina,96.4,,
+2002,MMR,North Carolina,86.9,,
+2003,MMR,North Carolina,89.4,,
+2004,MMR,North Carolina,82.5,,
+2005,MMR,North Carolina,89.1,,
+2006,MMR,North Carolina,97.5,,
+2007,MMR,North Carolina,96.9,,
+2008,MMR,North Carolina,70.8,,
+2009,MMR,North Carolina,,116087,96
+2010,MMR,North Carolina,,,
+2011,MMR,North Carolina,,128854,95.4
+2012,MMR,North Carolina,,130612,97.3
+2013,MMR,North Carolina,,126084,97.7
+2014,MMR,North Carolina,96.5,129792,95
+2015,MMR,North Carolina,97.3,128290,92
+2016,MMR,North Carolina,96.2,126454,88.2
+2017,MMR,North Carolina,97,127197,90.9
+2018,MMR,North Carolina,93.2,124343,90.9
+2019,MMR,North Carolina,95.5,124548,97.8
+2020,MMR,North Carolina,95.2,120995,89
+2021,MMR,North Carolina,96.1,118191,78.5
+2022,MMR,North Carolina,94,125679,83.1
+2023,MMR,North Carolina,93.8,125964,90.8
+2024,MMR,North Carolina,94.2,124028,91
+2025,MMR,North Carolina,93.7,120045,90.1
+1995,MMR,North Dakota,82,,
+1996,MMR,North Dakota,90,,
+1997,MMR,North Dakota,91,,
+1998,MMR,North Dakota,87.6,,
+1999,MMR,North Dakota,83,,
+2000,MMR,North Dakota,91.6,,
+2001,MMR,North Dakota,92.5,,
+2002,MMR,North Dakota,78.8,,
+2003,MMR,North Dakota,82.5,,
+2004,MMR,North Dakota,84.7,,
+2005,MMR,North Dakota,86.6,,
+2006,MMR,North Dakota,91.7,,
+2007,MMR,North Dakota,95.2,,
+2008,MMR,North Dakota,69.8,,
+2009,MMR,North Dakota,92.2,8323,6
+2010,MMR,North Dakota,,,
+2011,MMR,North Dakota,90.6,8412,5.8
+2012,MMR,North Dakota,89.9,9503,4.9
+2013,MMR,North Dakota,90,9780,96.1
+2014,MMR,North Dakota,89.8,10017,99.9
+2015,MMR,North Dakota,90.7,9875,97.1
+2016,MMR,North Dakota,93.8,9799,98.7
+2017,MMR,North Dakota,94.2,10365,99.4
+2018,MMR,North Dakota,93.6,10382,99.4
+2019,MMR,North Dakota,94.8,10587,99.5
+2020,MMR,North Dakota,93.3,10116,99.1
+2021,MMR,North Dakota,91.5,10755,96.6
+2022,MMR,North Dakota,92,10554,99.4
+2023,MMR,North Dakota,90.9,9708,97.5
+2024,MMR,North Dakota,90,9659,98.8
+2025,MMR,North Dakota,88.5,9344,98.6
+1995,MMR,Ohio,74,,
+1996,MMR,Ohio,93,,
+1997,MMR,Ohio,89,,
+1998,MMR,Ohio,91.5,,
+1999,MMR,Ohio,79.1,,
+2000,MMR,Ohio,89.1,,
+2001,MMR,Ohio,91.8,,
+2002,MMR,Ohio,77.9,,
+2003,MMR,Ohio,84.4,,
+2004,MMR,Ohio,83.1,,
+2005,MMR,Ohio,85.4,,
+2006,MMR,Ohio,93.6,,
+2007,MMR,Ohio,90.7,,
+2008,MMR,Ohio,81.8,,
+2009,MMR,Ohio,88.6,131137,100
+2010,MMR,Ohio,,,
+2011,MMR,Ohio,96.1,146144,94.5
+2012,MMR,Ohio,96.3,163687,86.9
+2013,MMR,Ohio,96.2,150000,92.5
+2014,MMR,Ohio,91.9,149080,91
+2015,MMR,Ohio,92.1,144604,93.7
+2016,MMR,Ohio,92.6,137542,95.5
+2017,MMR,Ohio,92.1,138753,94.9
+2018,MMR,Ohio,91.6,139679,94.9
+2019,MMR,Ohio,92.4,139103,98.8
+2020,MMR,Ohio,89.6,128535,91.1
+2021,MMR,Ohio,88.3,139077,91.9
+2022,MMR,Ohio,89.3,134893,93.7
+2023,MMR,Ohio,89.2,133716,94
+2024,MMR,Ohio,88.3,131589,93.2
+2025,MMR,Ohio,88.1,129087,95.9
+1995,MMR,Oklahoma,76,,
+1996,MMR,Oklahoma,89,,
+1997,MMR,Oklahoma,88,,
+1998,MMR,Oklahoma,94.1,,
+1999,MMR,Oklahoma,74,,
+2000,MMR,Oklahoma,89.6,,
+2001,MMR,Oklahoma,93.8,,
+2002,MMR,Oklahoma,69.6,,
+2003,MMR,Oklahoma,73.7,,
+2004,MMR,Oklahoma,74.8,,
+2005,MMR,Oklahoma,77.3,,
+2006,MMR,Oklahoma,94,,
+2007,MMR,Oklahoma,89.9,,
+2008,MMR,Oklahoma,71.7,,
+2009,MMR,Oklahoma,97.3,51128,88.9
+2010,MMR,Oklahoma,,,
+2011,MMR,Oklahoma,95,52987,90.9
+2012,MMR,Oklahoma,90.5,56943,95.5
+2013,MMR,Oklahoma,96.4,57377,71.3
+2014,MMR,Oklahoma,90.3,56967,95.9
+2015,MMR,Oklahoma,94.4,54335,96.1
+2016,MMR,Oklahoma,,52184,0
+2017,MMR,Oklahoma,92.6,53898,92.1
+2018,MMR,Oklahoma,92.2,54806,92.1
+2019,MMR,Oklahoma,93,55348,85.6
+2020,MMR,Oklahoma,90.5,52656,90
+2021,MMR,Oklahoma,90.9,54042,84.3
+2022,MMR,Oklahoma,89.6,52548,89.5
+2023,MMR,Oklahoma,88.3,49979,93.8
+2024,MMR,Oklahoma,88.7,47544,86.7
+2025,MMR,Oklahoma,87.8,47844,90.7
+1995,MMR,Oregon,74,,
+1996,MMR,Oregon,86,,
+1997,MMR,Oregon,88,,
+1998,MMR,Oregon,89.8,,
+1999,MMR,Oregon,73.2,,
+2000,MMR,Oregon,91.1,,
+2001,MMR,Oregon,89.4,,
+2002,MMR,Oregon,74.8,,
+2003,MMR,Oregon,79.9,,
+2004,MMR,Oregon,81.8,,
+2005,MMR,Oregon,76.1,,
+2006,MMR,Oregon,88.7,,
+2007,MMR,Oregon,88.9,,
+2008,MMR,Oregon,71,,
+2009,MMR,Oregon,94.4,44676,100
+2010,MMR,Oregon,,,
+2011,MMR,Oregon,94,45855,100
+2012,MMR,Oregon,93.5,47102,100
+2013,MMR,Oregon,93.2,47649,100
+2014,MMR,Oregon,94.1,46229,100
+2015,MMR,Oregon,93.9,45531,100
+2016,MMR,Oregon,93.8,45705,100
+2017,MMR,Oregon,93.2,45818,100
+2018,MMR,Oregon,93,45870,100
+2019,MMR,Oregon,93.4,45959,100
+2020,MMR,Oregon,92.7,39568,100
+2021,MMR,Oregon,93,41538,100
+2022,MMR,Oregon,91.9,40963,100
+2023,MMR,Oregon,91.2,39568,100
+2024,MMR,Oregon,90.5,38247,100
+2025,MMR,Oregon,89.6,37309,100
+1995,MMR,Pennsylvania,78,,
+1996,MMR,Pennsylvania,92,,
+1997,MMR,Pennsylvania,91,,
+1998,MMR,Pennsylvania,94.4,,
+1999,MMR,Pennsylvania,86.6,,
+2000,MMR,Pennsylvania,92,,
+2001,MMR,Pennsylvania,95.5,,
+2002,MMR,Pennsylvania,78.7,,
+2003,MMR,Pennsylvania,87.7,,
+2004,MMR,Pennsylvania,87.3,,
+2005,MMR,Pennsylvania,84.5,,
+2006,MMR,Pennsylvania,94.7,,
+2007,MMR,Pennsylvania,93.8,,
+2008,MMR,Pennsylvania,77.7,,
+2009,MMR,Pennsylvania,86.9,149656,100
+2010,MMR,Pennsylvania,,,
+2011,MMR,Pennsylvania,86.9,148042,99
+2012,MMR,Pennsylvania,87,151364,97.5
+2013,MMR,Pennsylvania,85.3,151253,100
+2014,MMR,Pennsylvania,91.7,146378,98.3
+2015,MMR,Pennsylvania,95.5,143298,93.2
+2016,MMR,Pennsylvania,93.6,143888,84.4
+2017,MMR,Pennsylvania,96.7,141571,93.3
+2018,MMR,Pennsylvania,96.4,143560,93.3
+2019,MMR,Pennsylvania,96.6,140197,98.8
+2020,MMR,Pennsylvania,95.5,129307,95
+2021,MMR,Pennsylvania,95,139558,94.9
+2022,MMR,Pennsylvania,94,137259,97.2
+2023,MMR,Pennsylvania,93.5,137593,96.5
+2024,MMR,Pennsylvania,92.4,140160,95.3
+2025,MMR,Pennsylvania,92.7,134313,95.7
+1995,MMR,Rhode Island,83,,
+1996,MMR,Rhode Island,96,,
+1997,MMR,Rhode Island,95,,
+1998,MMR,Rhode Island,96.5,,
+1999,MMR,Rhode Island,90.4,,
+2000,MMR,Rhode Island,93.1,,
+2001,MMR,Rhode Island,94.8,,
+2002,MMR,Rhode Island,90.1,,
+2003,MMR,Rhode Island,88.9,,
+2004,MMR,Rhode Island,90.9,,
+2005,MMR,Rhode Island,85.7,,
+2006,MMR,Rhode Island,96.2,,
+2007,MMR,Rhode Island,94.7,,
+2008,MMR,Rhode Island,77.5,,
+2009,MMR,Rhode Island,92.1,11818,11.6
+2010,MMR,Rhode Island,,,
+2011,MMR,Rhode Island,91.7,12552,13.9
+2012,MMR,Rhode Island,94.2,12552,75.2
+2013,MMR,Rhode Island,95.1,11521,99.1
+2014,MMR,Rhode Island,95.7,11163,98.9
+2015,MMR,Rhode Island,96.4,11165,100
+2016,MMR,Rhode Island,95.1,11100,98.4
+2017,MMR,Rhode Island,96.4,11025,100
+2018,MMR,Rhode Island,97.4,10964,100
+2019,MMR,Rhode Island,97.7,11219,98.5
+2020,MMR,Rhode Island,97,10402,93
+2021,MMR,Rhode Island,97.3,11002,96.9
+2022,MMR,Rhode Island,96.9,10532,96.5
+2023,MMR,Rhode Island,97.1,10539,97.8
+2024,MMR,Rhode Island,96.7,10088,96.7
+2025,MMR,Rhode Island,96.7,10123,97.1
+1995,MMR,South Carolina,80,,
+1996,MMR,South Carolina,95,,
+1997,MMR,South Carolina,91,,
+1998,MMR,South Carolina,94.4,,
+1999,MMR,South Carolina,81.1,,
+2000,MMR,South Carolina,92.1,,
+2001,MMR,South Carolina,94.7,,
+2002,MMR,South Carolina,80.5,,
+2003,MMR,South Carolina,85.5,,
+2004,MMR,South Carolina,82.8,,
+2005,MMR,South Carolina,79.2,,
+2006,MMR,South Carolina,93.9,,
+2007,MMR,South Carolina,92.5,,
+2008,MMR,South Carolina,78.4,,
+2009,MMR,South Carolina,87.2,53725,10.2
+2010,MMR,South Carolina,,,
+2011,MMR,South Carolina,94.5,59307,10.7
+2012,MMR,South Carolina,90.9,61799,17.9
+2013,MMR,South Carolina,96.8,61661,11
+2014,MMR,South Carolina,96.5,62864,12.2
+2015,MMR,South Carolina,96.5,59240,8.9
+2016,MMR,South Carolina,96,59177,8.9
+2017,MMR,South Carolina,96.3,58458,27
+2018,MMR,South Carolina,94.2,58442,27
+2019,MMR,South Carolina,95,65938,27.5
+2020,MMR,South Carolina,94.4,56330,26.5
+2021,MMR,South Carolina,92.7,58276,27.2
+2022,MMR,South Carolina,93.2,58878,28.1
+2023,MMR,South Carolina,92.1,58069,26.7
+2024,MMR,South Carolina,91.2,57718,34.3
+2025,MMR,South Carolina,93.4,57542,26.2
+1995,MMR,South Dakota,80,,
+1996,MMR,South Dakota,92,,
+1997,MMR,South Dakota,91,,
+1998,MMR,South Dakota,90.5,,
+1999,MMR,South Dakota,83.4,,
+2000,MMR,South Dakota,91.3,,
+2001,MMR,South Dakota,93.7,,
+2002,MMR,South Dakota,82,,
+2003,MMR,South Dakota,83.4,,
+2004,MMR,South Dakota,89.2,,
+2005,MMR,South Dakota,88.4,,
+2006,MMR,South Dakota,94.4,,
+2007,MMR,South Dakota,95,,
+2008,MMR,South Dakota,77.4,,
+2009,MMR,South Dakota,96.8,11499,100
+2010,MMR,South Dakota,,,
+2011,MMR,South Dakota,97.4,12127,100
+2012,MMR,South Dakota,97.9,12468,100
+2013,MMR,South Dakota,96.6,12566,100
+2014,MMR,South Dakota,97.1,12008,100
+2015,MMR,South Dakota,96.5,12181,100
+2016,MMR,South Dakota,96.7,12106,99.8
+2017,MMR,South Dakota,96.6,12125,99.9
+2018,MMR,South Dakota,96.2,12062,99.9
+2019,MMR,South Dakota,96,12367,99.8
+2020,MMR,South Dakota,94.6,11512,99.9
+2021,MMR,South Dakota,93.7,12251,100
+2022,MMR,South Dakota,92.5,12081,100
+2023,MMR,South Dakota,90.8,11744,99.8
+2024,MMR,South Dakota,90,11367,99.3
+2025,MMR,South Dakota,89.3,11009,100
+1995,MMR,Tennessee,74,,
+1996,MMR,Tennessee,90,,
+1997,MMR,Tennessee,90,,
+1998,MMR,Tennessee,93.2,,
+1999,MMR,Tennessee,79.5,,
+2000,MMR,Tennessee,90.6,,
+2001,MMR,Tennessee,94.2,,
+2002,MMR,Tennessee,80.5,,
+2003,MMR,Tennessee,81.1,,
+2004,MMR,Tennessee,84.3,,
+2005,MMR,Tennessee,84.4,,
+2006,MMR,Tennessee,93.3,,
+2007,MMR,Tennessee,94.5,,
+2008,MMR,Tennessee,81.2,,
+2009,MMR,Tennessee,97.4,90811,88.1
+2010,MMR,Tennessee,,,
+2011,MMR,Tennessee,97.3,83950,99.9
+2012,MMR,Tennessee,94.5,85801,97
+2013,MMR,Tennessee,94.9,80212,99.8
+2014,MMR,Tennessee,95.1,78276,100
+2015,MMR,Tennessee,93.5,79233,100
+2016,MMR,Tennessee,96.9,78169,100
+2017,MMR,Tennessee,96.9,78743,100
+2018,MMR,Tennessee,96.5,78630,100
+2019,MMR,Tennessee,96.8,80595,100
+2020,MMR,Tennessee,96.6,73819,100
+2021,MMR,Tennessee,95.8,79120,100
+2022,MMR,Tennessee,95.4,79692,100
+2023,MMR,Tennessee,95.1,79323,95.8
+2024,MMR,Tennessee,94.4,78299,96.7
+2025,MMR,Tennessee,94.4,73415,97.4
+1995,MMR,Texas,76,,
+1996,MMR,Texas,89,,
+1997,MMR,Texas,89,,
+1998,MMR,Texas,89.8,,
+1999,MMR,Texas,74.7,,
+2000,MMR,Texas,87.2,,
+2001,MMR,Texas,90.4,,
+2002,MMR,Texas,71.3,,
+2003,MMR,Texas,78.1,,
+2004,MMR,Texas,75.4,,
+2005,MMR,Texas,81.5,,
+2006,MMR,Texas,92,,
+2007,MMR,Texas,90.4,,
+2008,MMR,Texas,77.8,,
+2009,MMR,Texas,98.1,381425,98.3
+2010,MMR,Texas,,,
+2011,MMR,Texas,99.3,388178,100
+2012,MMR,Texas,97.5,414688,96.6
+2013,MMR,Texas,97.5,409255,97.1
+2014,MMR,Texas,97.4,406099,98.3
+2015,MMR,Texas,97.6,394801,98.7
+2016,MMR,Texas,97.3,389999,99
+2017,MMR,Texas,96.9,387981,99.4
+2018,MMR,Texas,96.9,390034,99.4
+2019,MMR,Texas,96.9,398680,99.6
+2020,MMR,Texas,95.3,377840,98.9
+2021,MMR,Texas,94,389037,99.3
+2022,MMR,Texas,94.2,381680,98
+2023,MMR,Texas,94.3,381421,92.4
+2024,MMR,Texas,93.2,378860,97.3
+2025,MMR,Texas,93.2,358586,98.3
+1995,MMR,Utah,68,,
+1996,MMR,Utah,86,,
+1997,MMR,Utah,86,,
+1998,MMR,Utah,90.7,,
+1999,MMR,Utah,81.7,,
+2000,MMR,Utah,89.7,,
+2001,MMR,Utah,89.1,,
+2002,MMR,Utah,79.9,,
+2003,MMR,Utah,80.4,,
+2004,MMR,Utah,75.4,,
+2005,MMR,Utah,75.7,,
+2006,MMR,Utah,92.4,,
+2007,MMR,Utah,90.9,,
+2008,MMR,Utah,76.6,,
+2009,MMR,Utah,97.7,49957,100
+2010,MMR,Utah,,,
+2011,MMR,Utah,98,53800,100
+2012,MMR,Utah,96.3,54605,100
+2013,MMR,Utah,98.5,54779,100
+2014,MMR,Utah,94,50916,100
+2015,MMR,Utah,94.2,50114,100
+2016,MMR,Utah,93.8,49073,100
+2017,MMR,Utah,93.4,48827,100
+2018,MMR,Utah,92.8,50179,100
+2019,MMR,Utah,92.7,49208,100
+2020,MMR,Utah,91.4,46247,100
+2021,MMR,Utah,90,48995,100
+2022,MMR,Utah,90,46635,100
+2023,MMR,Utah,88.8,46228,100
+2024,MMR,Utah,88.6,45818,100
+2025,MMR,Utah,87.2,44001,100
+1995,MMR,Vermont,86,,
+1996,MMR,Vermont,93,,
+1997,MMR,Vermont,94,,
+1998,MMR,Vermont,96.4,,
+1999,MMR,Vermont,90.7,,
+2000,MMR,Vermont,93.1,,
+2001,MMR,Vermont,95.6,,
+2002,MMR,Vermont,87.7,,
+2003,MMR,Vermont,89.7,,
+2004,MMR,Vermont,89.6,,
+2005,MMR,Vermont,83.4,,
+2006,MMR,Vermont,95.1,,
+2007,MMR,Vermont,93.6,,
+2008,MMR,Vermont,64.5,,
+2009,MMR,Vermont,91.8,6713,100
+2010,MMR,Vermont,,,
+2011,MMR,Vermont,92.9,6548,100
+2012,MMR,Vermont,92.8,6792,100
+2013,MMR,Vermont,91.2,6771,100
+2014,MMR,Vermont,92.7,6277,100
+2015,MMR,Vermont,93.6,6366,100
+2016,MMR,Vermont,93.6,6344,100
+2017,MMR,Vermont,94.1,6255,100
+2018,MMR,Vermont,93,6126,100
+2019,MMR,Vermont,94.5,6293,100
+2020,MMR,Vermont,94,5535,100
+2021,MMR,Vermont,93.4,6126,100
+2022,MMR,Vermont,93.1,5816,100
+2023,MMR,Vermont,92.9,5630,100
+2024,MMR,Vermont,93.5,5432,100
+2025,MMR,Vermont,93.8,5298,100
+1995,MMR,Virginia,74,,
+1996,MMR,Virginia,90,,
+1997,MMR,Virginia,90,,
+1998,MMR,Virginia,90.1,,
+1999,MMR,Virginia,81.6,,
+2000,MMR,Virginia,91.3,,
+2001,MMR,Virginia,91,,
+2002,MMR,Virginia,77.7,,
+2003,MMR,Virginia,85.8,,
+2004,MMR,Virginia,85.6,,
+2005,MMR,Virginia,86,,
+2006,MMR,Virginia,93.6,,
+2007,MMR,Virginia,90.9,,
+2008,MMR,Virginia,72.9,,
+2009,MMR,Virginia,92.1,100891,4.4
+2010,MMR,Virginia,,,
+2011,MMR,Virginia,93,101121,4.3
+2012,MMR,Virginia,93.1,104826,4.2
+2013,MMR,Virginia,93.1,105692,4.1
+2014,MMR,Virginia,93.4,103821,4.1
+2015,MMR,Virginia,95.7,100074,4.3
+2016,MMR,Virginia,94.1,102357,4
+2017,MMR,Virginia,95.5,100581,4.4
+2018,MMR,Virginia,95,100394,4.4
+2019,MMR,Virginia,94.6,99399,1.2
+2020,MMR,Virginia,95.8,88273,2
+2021,MMR,Virginia,95.5,95996,2.8
+2022,MMR,Virginia,95.8,93271,1.6
+2023,MMR,Virginia,94.2,92633,1.9
+2024,MMR,Virginia,95.6,91453,1.7
+2025,MMR,Virginia,93.6,88950,95.7
+1995,MMR,Washington,78,,
+1996,MMR,Washington,91,,
+1997,MMR,Washington,91,,
+1998,MMR,Washington,90,,
+1999,MMR,Washington,76.5,,
+2000,MMR,Washington,90.2,,
+2001,MMR,Washington,89.3,,
+2002,MMR,Washington,74.7,,
+2003,MMR,Washington,81,,
+2004,MMR,Washington,82.4,,
+2005,MMR,Washington,81.2,,
+2006,MMR,Washington,88.3,,
+2007,MMR,Washington,90.5,,
+2008,MMR,Washington,73.5,,
+2009,MMR,Washington,91.7,81511,93.3
+2010,MMR,Washington,,,
+2011,MMR,Washington,91.8,85134,89.1
+2012,MMR,Washington,91.7,87773,94.7
+2013,MMR,Washington,89.7,89165,88.5
+2014,MMR,Washington,89.4,88809,96.7
+2015,MMR,Washington,91,86492,97.3
+2016,MMR,Washington,90.5,87142,98.2
+2017,MMR,Washington,90.6,85118,96.9
+2018,MMR,Washington,90.8,87510,96.9
+2019,MMR,Washington,94.4,87757,91.9
+2020,MMR,Washington,94.4,74931,100
+2021,MMR,Washington,92.5,87256,97.3
+2022,MMR,Washington,91.4,86284,97.9
+2023,MMR,Washington,91.3,84053,97.2
+2024,MMR,Washington,90.9,76756,97.9
+2025,MMR,Washington,90.6,75631,99.1
+1995,MMR,West Virginia,73,,
+1996,MMR,West Virginia,88,,
+1997,MMR,West Virginia,91,,
+1998,MMR,West Virginia,92.5,,
+1999,MMR,West Virginia,82.1,,
+2000,MMR,West Virginia,92.4,,
+2001,MMR,West Virginia,93.8,,
+2002,MMR,West Virginia,79,,
+2003,MMR,West Virginia,78.9,,
+2004,MMR,West Virginia,87.7,,
+2005,MMR,West Virginia,78.8,,
+2006,MMR,West Virginia,91.2,,
+2007,MMR,West Virginia,96.2,,
+2008,MMR,West Virginia,76.5,,
+2009,MMR,West Virginia,91.2,22730,86.7
+2010,MMR,West Virginia,,,
+2011,MMR,West Virginia,92,22449,94.9
+2012,MMR,West Virginia,96.3,22588,86.5
+2013,MMR,West Virginia,96.1,22814,84.7
+2014,MMR,West Virginia,97.6,22016,81.3
+2015,MMR,West Virginia,95.2,21333,87.6
+2016,MMR,West Virginia,95.9,28666,66.5
+2017,MMR,West Virginia,98.4,19519,79.3
+2018,MMR,West Virginia,98.8,19442,79.3
+2019,MMR,West Virginia,98.2,17114,49.6
+2020,MMR,West Virginia,NR,,
+2021,MMR,West Virginia,96.5,18070,85.5
+2022,MMR,West Virginia,95.6,19175,86.1
+2023,MMR,West Virginia,98.3,18261,82.8
+2025,MMR,West Virginia,98.9,15445,93.3
+1995,MMR,Wisconsin,77,,
+1996,MMR,Wisconsin,90,,
+1997,MMR,Wisconsin,91,,
+1998,MMR,Wisconsin,92.2,,
+1999,MMR,Wisconsin,75.3,,
+2000,MMR,Wisconsin,91,,
+2001,MMR,Wisconsin,92.3,,
+2002,MMR,Wisconsin,83.4,,
+2003,MMR,Wisconsin,83.6,,
+2004,MMR,Wisconsin,86.3,,
+2005,MMR,Wisconsin,85.6,,
+2006,MMR,Wisconsin,94,,
+2007,MMR,Wisconsin,91.4,,
+2008,MMR,Wisconsin,79.6,,
+2009,MMR,Wisconsin,94.2,61095,2.3
+2010,MMR,Wisconsin,,,
+2011,MMR,Wisconsin,93.1,70672,2.3
+2012,MMR,Wisconsin,92.8,72416,1.8
+2013,MMR,Wisconsin,92.6,71363,2.8
+2014,MMR,Wisconsin,91.6,69335,2.5
+2015,MMR,Wisconsin,93.2,70220,2
+2016,MMR,Wisconsin,94,67607,2.2
+2017,MMR,Wisconsin,91.8,66178,2.3
+2018,MMR,Wisconsin,92.6,66344,2.3
+2019,MMR,Wisconsin,92.8,67391,2.6
+2020,MMR,Wisconsin,87.2,63486,84.5
+2021,MMR,Wisconsin,82.6,64275,96.8
+2022,MMR,Wisconsin,86.5,63593,93.9
+2023,MMR,Wisconsin,84.8,62028,98.2
+2024,MMR,Wisconsin,84.8,61120,95.7
+2025,MMR,Wisconsin,85.1,59360,96.6
+1995,MMR,Wyoming,74,,
+1996,MMR,Wyoming,89,,
+1997,MMR,Wyoming,84,,
+1998,MMR,Wyoming,89.5,,
+1999,MMR,Wyoming,83.5,,
+2000,MMR,Wyoming,91.4,,
+2001,MMR,Wyoming,91.6,,
+2002,MMR,Wyoming,76.5,,
+2003,MMR,Wyoming,77.2,,
+2004,MMR,Wyoming,84.9,,
+2005,MMR,Wyoming,80.7,,
+2006,MMR,Wyoming,87.7,,
+2007,MMR,Wyoming,87.5,,
+2008,MMR,Wyoming,64.6,,
+2009,MMR,Wyoming,,,
+2010,MMR,Wyoming,,,
+2011,MMR,Wyoming,,,
+2012,MMR,Wyoming,97.5,8133,100
+2013,MMR,Wyoming,,,
+2014,MMR,Wyoming,96.8,7983,97.9
+2015,MMR,Wyoming,96.9,7825,74
+2016,MMR,Wyoming,,,
+2017,MMR,Wyoming,,,
+2018,MMR,Wyoming,95.1,7734,100
+2019,MMR,Wyoming,94.5,7913,100
+2020,MMR,Wyoming,90.2,6923,100
+2021,MMR,Wyoming,92.9,7382,100
+2022,MMR,Wyoming,90.8,7060,100
+2023,MMR,Wyoming,93.5,6754,100
+2024,MMR,Wyoming,93.6,6564,100
+2025,MMR,Wyoming,92.6,6146,100
