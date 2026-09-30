@@ -1,0 +1,106 @@
+Rubella Data Cleaning Code
+Purpose. This Python script provides a reproducible cleaning workflow for the Rubella dataset. It removes empty and duplicate records, standardizes column names and text fields, converts numeric values, checks percentage values, and exports a cleaned Excel file.
+Python Data-Cleaning Script
+import pandas as pd
+ 
+# ---------------------------------------------------------
+# RUBELLA DATA CLEANING
+# ---------------------------------------------------------
+ 
+# 1. Load the Rubella dataset
+df = pd.read_excel("Rubella_Raw_Data.xlsx")
+ 
+# 2. Remove rows that are completely empty
+df = df.dropna(how="all")
+ 
+# 3. Remove exact duplicate records
+df = df.drop_duplicates()
+ 
+# 4. Standardize column names
+df.columns = (
+    df.columns
+    .str.strip()
+    .str.lower()
+    .str.replace(" ", "_", regex=False)
+)
+ 
+# 5. Standardize text fields
+text_columns = [
+    "geography",
+    "metric",
+    "unit",
+    "data_type",
+    "historical_or_current"
+]
+ 
+for column in text_columns:
+    if column in df.columns:
+        df[column] = df[column].astype("string").str.strip()
+ 
+# 6. Convert value columns to numeric format
+for column in ["value_min", "value_max"]:
+    if column in df.columns:
+        df[column] = pd.to_numeric(df[column], errors="coerce")
+ 
+# 7. Identify invalid percentage values
+# Percentages should normally fall between 0 and 100.
+for column in ["value_min", "value_max"]:
+    if column in df.columns and "unit" in df.columns:
+        percent_rows = df["unit"].str.contains(
+            "percent", case=False, na=False
+        )
+ 
+        invalid_percent = (
+            percent_rows
+            & ((df[column] < 0) | (df[column] > 100))
+        )
+ 
+        df.loc[invalid_percent, column] = pd.NA
+ 
+# 8. Standardize selected geography labels
+if "geography" in df.columns:
+    geography_map = {
+        "U.S.": "United States",
+        "US": "United States",
+        "USA": "United States",
+        "Global": "Worldwide",
+        "World": "Worldwide"
+    }
+ 
+    df["geography"] = df["geography"].replace(geography_map)
+ 
+# 9. Preserve historical/current classifications
+# Historical and current values should not be combined unless
+# year and geography are clearly identified.
+if "historical_or_current" in df.columns:
+    df["historical_or_current"] = (
+        df["historical_or_current"]
+        .str.strip()
+        .str.title()
+    )
+ 
+# 10. Display a basic cleaning summary
+print("Rubella data cleaning complete.")
+print("Number of cleaned rows:", len(df))
+print("Remaining duplicate rows:", df.duplicated().sum())
+ 
+print("\nMissing values by column:")
+print(df.isna().sum())
+ 
+# 11. Export the cleaned Rubella dataset
+df.to_excel("Rubella_Cleaned_Data.xlsx", index=False)
+ 
+print("\nCleaned file saved as: Rubella_Cleaned_Data.xlsx")
+What the Code Does
+Loads the data: Reads the raw Rubella Excel dataset into a pandas DataFrame.
+Removes empty records: Deletes rows that contain no usable information.
+Removes duplicates: Prevents identical observations from being counted more than once.
+Standardizes column names: Makes field names consistent and easier to reference in Python.
+Cleans text fields: Removes unnecessary spaces from geography, metric, unit, and classification fields.
+Converts numeric values: Ensures minimum and maximum values can be used for calculations and visualizations.
+Checks percentages: Flags impossible percentage values below 0 or above 100 as missing rather than treating them as valid.
+Standardizes geography: Uses consistent labels such as United States and Worldwide.
+Preserves time context: Keeps historical and current observations distinguishable so values from different periods are not accidentally combined.
+Exports the result: Creates Rubella_Cleaned_Data.xlsx for analysis and dashboard development.
+Important Note for the Rubella Dataset
+The Rubella source material contains different kinds of information, including clinical statistics, U.S. surveillance information, historical disease burden, global estimates, vaccination coverage, and congenital rubella syndrome data. These observations should remain labeled by geography, year or time period, unit, and data type. Historical and current incidence values should not be combined into one measure unless the time period and population are explicitly accounted for.
