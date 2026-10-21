@@ -8,7 +8,7 @@ mumps = pd.read_csv(
     "mumps cases cleaned 1923-2021_final.csv")
 
 mmr = pd.read_csv(
-    "mmr coverage combined 1995-2025.csv")
+    "mmr coverage 1995-2025.csv")
 
 
 # keep 2000-2021
