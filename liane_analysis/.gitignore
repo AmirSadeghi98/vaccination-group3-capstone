@@ -1,0 +1,4 @@
+   data/cleaned_data/*.csv
+   figures/*.png
+   results/*.csv
+   __pycache__/
