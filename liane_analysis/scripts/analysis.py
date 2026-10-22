@@ -343,7 +343,7 @@ for yi, r in zip(y, table.itertuples()):
 ax.axvline(1, color="black", linewidth=0.8)
 tidy_ratio_axis(ax)
 ax.set_yticks(y); ax.set_yticklabels([label(d, v) for d, v in PAIRS])
-ax.set_xlabel("Rate ratio per +10 points of coverage (below 1 = fewer cases with higher coverage)")
+ax.set_xlabel("Rate ratio per +10 points of coverage\n(below 1 = fewer cases with higher coverage)")
 ax.set_title("Poisson regression with state fixed effects")
 plt.tight_layout(); plt.savefig(FIGS / "fig6_rate_ratios.png", dpi=200); plt.close()
 
