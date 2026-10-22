@@ -293,6 +293,8 @@ say(f"   {len(incidence):,} state-year rows; sources: {sorted(incidence['Source'
 # Years before 1993 have no population, so no rate
 say("Step 2: adding rates per 100,000")
 population = pd.read_csv(RAW / "population" / "population_1993-2023.csv")
+# Make sure Population is a number: remove commas, then convert (anything that is not a number becomes missing)
+population["Population"] = pd.to_numeric(population["Population"].astype(str).str.replace(",", ""), errors="coerce")
 incidence = incidence.merge(population, on=["State", "Year"], how="left")   # keeps all rows
 incidence["Rate_per_100k"] = incidence["Cases"] / incidence["Population"] * 100_000
 
