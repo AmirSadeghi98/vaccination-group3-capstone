@@ -1,0 +1,538 @@
+"Notes"	"Disease"	"Disease Code"	"Year"	"Year Code"	"Regions/States"	"Regions/States Code"	Case Count
+	"Measles, Total"	"10140"	"2016"	"2016"	"New England"	"REGION1"	2
+	"Measles, Total"	"10140"	"2016"	"2016"	"Connecticut"	"09"	1
+	"Measles, Total"	"10140"	"2016"	"2016"	"Maine"	"23"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Massachusetts"	"25"	1
+	"Measles, Total"	"10140"	"2016"	"2016"	"New Hampshire"	"33"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Rhode Island"	"44"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Vermont"	"50"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Middle Atlantic"	"REGION2"	1
+	"Measles, Total"	"10140"	"2016"	"2016"	"New Jersey"	"34"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"New York (excluding New York City)"	"36888"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"New York City"	"75772"	1
+	"Measles, Total"	"10140"	"2016"	"2016"	"Pennsylvania"	"42"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"East North Central"	"REGION3"	4
+	"Measles, Total"	"10140"	"2016"	"2016"	"Illinois"	"17"	2
+	"Measles, Total"	"10140"	"2016"	"2016"	"Indiana"	"18"	1
+	"Measles, Total"	"10140"	"2016"	"2016"	"Michigan"	"26"	1
+	"Measles, Total"	"10140"	"2016"	"2016"	"Ohio"	"39"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Wisconsin"	"55"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"West North Central"	"REGION4"	2
+	"Measles, Total"	"10140"	"2016"	"2016"	"Iowa"	"19"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Kansas"	"20"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Minnesota"	"27"	2
+	"Measles, Total"	"10140"	"2016"	"2016"	"Missouri"	"29"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Nebraska"	"31"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"North Dakota"	"38"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"South Dakota"	"46"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"South Atlantic"	"REGION5"	8
+	"Measles, Total"	"10140"	"2016"	"2016"	"Delaware"	"10"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"District of Columbia"	"11"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Florida"	"12"	5
+	"Measles, Total"	"10140"	"2016"	"2016"	"Georgia"	"13"	1
+	"Measles, Total"	"10140"	"2016"	"2016"	"Maryland"	"24"	1
+	"Measles, Total"	"10140"	"2016"	"2016"	"North Carolina"	"37"	1
+	"Measles, Total"	"10140"	"2016"	"2016"	"South Carolina"	"45"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Virginia"	"51"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"West Virginia"	"54"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"East South Central"	"REGION6"	8
+	"Measles, Total"	"10140"	"2016"	"2016"	"Alabama"	"01"	1
+	"Measles, Total"	"10140"	"2016"	"2016"	"Kentucky"	"21"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Mississippi"	"28"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Tennessee"	"47"	7
+	"Measles, Total"	"10140"	"2016"	"2016"	"West South Central"	"REGION7"	1
+	"Measles, Total"	"10140"	"2016"	"2016"	"Arkansas"	"05"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Louisiana"	"22"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Oklahoma"	"40"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Texas"	"48"	1
+	"Measles, Total"	"10140"	"2016"	"2016"	"Mountain"	"REGION8"	34
+	"Measles, Total"	"10140"	"2016"	"2016"	"Arizona"	"04"	31
+	"Measles, Total"	"10140"	"2016"	"2016"	"Colorado"	"08"	2
+	"Measles, Total"	"10140"	"2016"	"2016"	"Idaho"	"16"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Montana"	"30"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Nevada"	"32"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"New Mexico"	"35"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Utah"	"49"	1
+	"Measles, Total"	"10140"	"2016"	"2016"	"Wyoming"	"56"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Pacific"	"REGION9"	25
+	"Measles, Total"	"10140"	"2016"	"2016"	"Alaska"	"02"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"California"	"06"	24
+	"Measles, Total"	"10140"	"2016"	"2016"	"Hawaii"	"15"	1
+	"Measles, Total"	"10140"	"2016"	"2016"	"Oregon"	"41"	0
+	"Measles, Total"	"10140"	"2016"	"2016"	"Washington"	"53"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"New England"	"REGION1"	1
+	"Measles, Total"	"10140"	"2017"	"2017"	"Connecticut"	"09"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Maine"	"23"	1
+	"Measles, Total"	"10140"	"2017"	"2017"	"Massachusetts"	"25"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"New Hampshire"	"33"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Rhode Island"	"44"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Vermont"	"50"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Middle Atlantic"	"REGION2"	11
+	"Measles, Total"	"10140"	"2017"	"2017"	"New Jersey"	"34"	3
+	"Measles, Total"	"10140"	"2017"	"2017"	"New York (excluding New York City)"	"36888"	2
+	"Measles, Total"	"10140"	"2017"	"2017"	"New York City"	"75772"	2
+	"Measles, Total"	"10140"	"2017"	"2017"	"Pennsylvania"	"42"	4
+	"Measles, Total"	"10140"	"2017"	"2017"	"East North Central"	"REGION3"	3
+	"Measles, Total"	"10140"	"2017"	"2017"	"Illinois"	"17"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Indiana"	"18"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Michigan"	"26"	2
+	"Measles, Total"	"10140"	"2017"	"2017"	"Ohio"	"39"	1
+	"Measles, Total"	"10140"	"2017"	"2017"	"Wisconsin"	"55"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"West North Central"	"REGION4"	78
+	"Measles, Total"	"10140"	"2017"	"2017"	"Iowa"	"19"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Kansas"	"20"	2
+	"Measles, Total"	"10140"	"2017"	"2017"	"Minnesota"	"27"	75
+	"Measles, Total"	"10140"	"2017"	"2017"	"Missouri"	"29"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Nebraska"	"31"	1
+	"Measles, Total"	"10140"	"2017"	"2017"	"North Dakota"	"38"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"South Dakota"	"46"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"South Atlantic"	"REGION5"	5
+	"Measles, Total"	"10140"	"2017"	"2017"	"Delaware"	"10"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"District of Columbia"	"11"	1
+	"Measles, Total"	"10140"	"2017"	"2017"	"Florida"	"12"	3
+	"Measles, Total"	"10140"	"2017"	"2017"	"Georgia"	"13"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Maryland"	"24"	1
+	"Measles, Total"	"10140"	"2017"	"2017"	"North Carolina"	"37"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"South Carolina"	"45"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Virginia"	"51"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"West Virginia"	"54"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"East South Central"	"REGION6"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Alabama"	"01"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Kentucky"	"21"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Mississippi"	"28"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Tennessee"	"47"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"West South Central"	"REGION7"	1
+	"Measles, Total"	"10140"	"2017"	"2017"	"Arkansas"	"05"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Louisiana"	"22"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Oklahoma"	"40"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Texas"	"48"	1
+	"Measles, Total"	"10140"	"2017"	"2017"	"Mountain"	"REGION8"	3
+	"Measles, Total"	"10140"	"2017"	"2017"	"Arizona"	"04"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Colorado"	"08"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Idaho"	"16"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Montana"	"30"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Nevada"	"32"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"New Mexico"	"35"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Utah"	"49"	3
+	"Measles, Total"	"10140"	"2017"	"2017"	"Wyoming"	"56"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Pacific"	"REGION9"	18
+	"Measles, Total"	"10140"	"2017"	"2017"	"Alaska"	"02"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"California"	"06"	15
+	"Measles, Total"	"10140"	"2017"	"2017"	"Hawaii"	"15"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Oregon"	"41"	0
+	"Measles, Total"	"10140"	"2017"	"2017"	"Washington"	"53"	3
+	"Measles, Total"	"10140"	"2018"	"2018"	"New England"	"REGION1"	6
+	"Measles, Total"	"10140"	"2018"	"2018"	"Connecticut"	"09"	3
+	"Measles, Total"	"10140"	"2018"	"2018"	"Maine"	"23"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Massachusetts"	"25"	2
+	"Measles, Total"	"10140"	"2018"	"2018"	"New Hampshire"	"33"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Rhode Island"	"44"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Vermont"	"50"	1
+	"Measles, Total"	"10140"	"2018"	"2018"	"Middle Atlantic"	"REGION2"	226
+	"Measles, Total"	"10140"	"2018"	"2018"	"New Jersey"	"34"	37
+	"Measles, Total"	"10140"	"2018"	"2018"	"New York (excluding New York City)"	"36888"	127
+	"Measles, Total"	"10140"	"2018"	"2018"	"New York City"	"75772"	60
+	"Measles, Total"	"10140"	"2018"	"2018"	"Pennsylvania"	"42"	2
+	"Measles, Total"	"10140"	"2018"	"2018"	"East North Central"	"REGION3"	25
+	"Measles, Total"	"10140"	"2018"	"2018"	"Illinois"	"17"	5
+	"Measles, Total"	"10140"	"2018"	"2018"	"Indiana"	"18"	1
+	"Measles, Total"	"10140"	"2018"	"2018"	"Michigan"	"26"	19
+	"Measles, Total"	"10140"	"2018"	"2018"	"Ohio"	"39"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Wisconsin"	"55"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"West North Central"	"REGION4"	38
+	"Measles, Total"	"10140"	"2018"	"2018"	"Iowa"	"19"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Kansas"	"20"	21
+	"Measles, Total"	"10140"	"2018"	"2018"	"Minnesota"	"27"	3
+	"Measles, Total"	"10140"	"2018"	"2018"	"Missouri"	"29"	14
+	"Measles, Total"	"10140"	"2018"	"2018"	"Nebraska"	"31"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"North Dakota"	"38"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"South Dakota"	"46"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"South Atlantic"	"REGION5"	27
+	"Measles, Total"	"10140"	"2018"	"2018"	"Delaware"	"10"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"District of Columbia"	"11"	1
+	"Measles, Total"	"10140"	"2018"	"2018"	"Florida"	"12"	15
+	"Measles, Total"	"10140"	"2018"	"2018"	"Georgia"	"13"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Maryland"	"24"	1
+	"Measles, Total"	"10140"	"2018"	"2018"	"North Carolina"	"37"	3
+	"Measles, Total"	"10140"	"2018"	"2018"	"South Carolina"	"45"	6
+	"Measles, Total"	"10140"	"2018"	"2018"	"Virginia"	"51"	1
+	"Measles, Total"	"10140"	"2018"	"2018"	"West Virginia"	"54"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"East South Central"	"REGION6"	1
+	"Measles, Total"	"10140"	"2018"	"2018"	"Alabama"	"01"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Kentucky"	"21"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Mississippi"	"28"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Tennessee"	"47"	1
+	"Measles, Total"	"10140"	"2018"	"2018"	"West South Central"	"REGION7"	15
+	"Measles, Total"	"10140"	"2018"	"2018"	"Arkansas"	"05"	1
+	"Measles, Total"	"10140"	"2018"	"2018"	"Louisiana"	"22"	2
+	"Measles, Total"	"10140"	"2018"	"2018"	"Oklahoma"	"40"	3
+	"Measles, Total"	"10140"	"2018"	"2018"	"Texas"	"48"	9
+	"Measles, Total"	"10140"	"2018"	"2018"	"Mountain"	"REGION8"	2
+	"Measles, Total"	"10140"	"2018"	"2018"	"Arizona"	"04"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Colorado"	"08"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Idaho"	"16"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Montana"	"30"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Nevada"	"32"	2
+	"Measles, Total"	"10140"	"2018"	"2018"	"New Mexico"	"35"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Utah"	"49"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Wyoming"	"56"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Pacific"	"REGION9"	35
+	"Measles, Total"	"10140"	"2018"	"2018"	"Alaska"	"02"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"California"	"06"	22
+	"Measles, Total"	"10140"	"2018"	"2018"	"Hawaii"	"15"	0
+	"Measles, Total"	"10140"	"2018"	"2018"	"Oregon"	"41"	5
+	"Measles, Total"	"10140"	"2018"	"2018"	"Washington"	"53"	8
+	"Measles, Total"	"10140"	"2019"	"2019"	"New England"	"REGION1"	10
+	"Measles, Total"	"10140"	"2019"	"2019"	"Connecticut"	"09"	4
+	"Measles, Total"	"10140"	"2019"	"2019"	"Maine"	"23"	2
+	"Measles, Total"	"10140"	"2019"	"2019"	"Massachusetts"	"25"	3
+	"Measles, Total"	"10140"	"2019"	"2019"	"New Hampshire"	"33"	1
+	"Measles, Total"	"10140"	"2019"	"2019"	"Rhode Island"	"44"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"Vermont"	"50"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"Middle Atlantic"	"REGION2"	947
+	"Measles, Total"	"10140"	"2019"	"2019"	"New Jersey"	"34"	19
+	"Measles, Total"	"10140"	"2019"	"2019"	"New York (excluding New York City)"	"36888"	306
+	"Measles, Total"	"10140"	"2019"	"2019"	"New York City"	"75772"	605
+	"Measles, Total"	"10140"	"2019"	"2019"	"Pennsylvania"	"42"	17
+	"Measles, Total"	"10140"	"2019"	"2019"	"East North Central"	"REGION3"	57
+	"Measles, Total"	"10140"	"2019"	"2019"	"Illinois"	"17"	9
+	"Measles, Total"	"10140"	"2019"	"2019"	"Indiana"	"18"	1
+	"Measles, Total"	"10140"	"2019"	"2019"	"Michigan"	"26"	46
+	"Measles, Total"	"10140"	"2019"	"2019"	"Ohio"	"39"	1
+	"Measles, Total"	"10140"	"2019"	"2019"	"Wisconsin"	"55"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"West North Central"	"REGION4"	3
+	"Measles, Total"	"10140"	"2019"	"2019"	"Iowa"	"19"	2
+	"Measles, Total"	"10140"	"2019"	"2019"	"Kansas"	"20"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"Minnesota"	"27"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"Missouri"	"29"	1
+	"Measles, Total"	"10140"	"2019"	"2019"	"Nebraska"	"31"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"North Dakota"	"38"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"South Dakota"	"46"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"South Atlantic"	"REGION5"	29
+	"Measles, Total"	"10140"	"2019"	"2019"	"Delaware"	"10"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"District of Columbia"	"11"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"Florida"	"12"	3
+	"Measles, Total"	"10140"	"2019"	"2019"	"Georgia"	"13"	18
+	"Measles, Total"	"10140"	"2019"	"2019"	"Maryland"	"24"	5
+	"Measles, Total"	"10140"	"2019"	"2019"	"North Carolina"	"37"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"South Carolina"	"45"	1
+	"Measles, Total"	"10140"	"2019"	"2019"	"Virginia"	"51"	2
+	"Measles, Total"	"10140"	"2019"	"2019"	"West Virginia"	"54"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"East South Central"	"REGION6"	7
+	"Measles, Total"	"10140"	"2019"	"2019"	"Alabama"	"01"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"Kentucky"	"21"	2
+	"Measles, Total"	"10140"	"2019"	"2019"	"Mississippi"	"28"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"Tennessee"	"47"	5
+	"Measles, Total"	"10140"	"2019"	"2019"	"West South Central"	"REGION7"	26
+	"Measles, Total"	"10140"	"2019"	"2019"	"Arkansas"	"05"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"Louisiana"	"22"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"Oklahoma"	"40"	4
+	"Measles, Total"	"10140"	"2019"	"2019"	"Texas"	"48"	22
+	"Measles, Total"	"10140"	"2019"	"2019"	"Mountain"	"REGION8"	5
+	"Measles, Total"	"10140"	"2019"	"2019"	"Arizona"	"04"	1
+	"Measles, Total"	"10140"	"2019"	"2019"	"Colorado"	"08"	1
+	"Measles, Total"	"10140"	"2019"	"2019"	"Idaho"	"16"	2
+	"Measles, Total"	"10140"	"2019"	"2019"	"Montana"	"30"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"Nevada"	"32"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"New Mexico"	"35"	1
+	"Measles, Total"	"10140"	"2019"	"2019"	"Utah"	"49"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"Wyoming"	"56"	0
+	"Measles, Total"	"10140"	"2019"	"2019"	"Pacific"	"REGION9"	191
+	"Measles, Total"	"10140"	"2019"	"2019"	"Alaska"	"02"	1
+	"Measles, Total"	"10140"	"2019"	"2019"	"California"	"06"	73
+	"Measles, Total"	"10140"	"2019"	"2019"	"Hawaii"	"15"	2
+	"Measles, Total"	"10140"	"2019"	"2019"	"Oregon"	"41"	25
+	"Measles, Total"	"10140"	"2019"	"2019"	"Washington"	"53"	90
+	"Measles, Total"	"10140"	"2020"	"2020"	"New England"	"REGION1"	1
+	"Measles, Total"	"10140"	"2020"	"2020"	"Connecticut"	"09"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Maine"	"23"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Massachusetts"	"25"	1
+	"Measles, Total"	"10140"	"2020"	"2020"	"New Hampshire"	"33"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Rhode Island"	"44"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Vermont"	"50"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Middle Atlantic"	"REGION2"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"New Jersey"	"34"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"New York (excluding New York City)"	"36888"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"New York City"	"75772"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Pennsylvania"	"42"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"East North Central"	"REGION3"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Illinois"	"17"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Indiana"	"18"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Michigan"	"26"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Ohio"	"39"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Wisconsin"	"55"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"West North Central"	"REGION4"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Iowa"	"19"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Kansas"	"20"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Minnesota"	"27"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Missouri"	"29"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Nebraska"	"31"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"North Dakota"	"38"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"South Dakota"	"46"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"South Atlantic"	"REGION5"	4
+	"Measles, Total"	"10140"	"2020"	"2020"	"Delaware"	"10"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"District of Columbia"	"11"	1
+	"Measles, Total"	"10140"	"2020"	"2020"	"Florida"	"12"	1
+	"Measles, Total"	"10140"	"2020"	"2020"	"Georgia"	"13"	1
+	"Measles, Total"	"10140"	"2020"	"2020"	"Maryland"	"24"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"North Carolina"	"37"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"South Carolina"	"45"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Virginia"	"51"	1
+	"Measles, Total"	"10140"	"2020"	"2020"	"West Virginia"	"54"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"East South Central"	"REGION6"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Alabama"	"01"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Kentucky"	"21"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Mississippi"	"28"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Tennessee"	"47"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"West South Central"	"REGION7"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Arkansas"	"05"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Louisiana"	"22"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Oklahoma"	"40"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Texas"	"48"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Mountain"	"REGION8"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Arizona"	"04"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Colorado"	"08"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Idaho"	"16"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Montana"	"30"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Nevada"	"32"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"New Mexico"	"35"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Utah"	"49"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Wyoming"	"56"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Pacific"	"REGION9"	7
+	"Measles, Total"	"10140"	"2020"	"2020"	"Alaska"	"02"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"California"	"06"	5
+	"Measles, Total"	"10140"	"2020"	"2020"	"Hawaii"	"15"	1
+	"Measles, Total"	"10140"	"2020"	"2020"	"Oregon"	"41"	0
+	"Measles, Total"	"10140"	"2020"	"2020"	"Washington"	"53"	1
+	"Measles, Total"	"10140"	"2021"	"2021"	"New England"	"REGION1"	2
+	"Measles, Total"	"10140"	"2021"	"2021"	"Connecticut"	"09"	2
+	"Measles, Total"	"10140"	"2021"	"2021"	"Maine"	"23"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Massachusetts"	"25"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"New Hampshire"	"33"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Rhode Island"	"44"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Vermont"	"50"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Middle Atlantic"	"REGION2"	1
+	"Measles, Total"	"10140"	"2021"	"2021"	"New Jersey"	"34"	1
+	"Measles, Total"	"10140"	"2021"	"2021"	"New York (excluding New York City)"	"36888"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"New York City"	"75772"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Pennsylvania"	"42"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"East North Central"	"REGION3"	23
+	"Measles, Total"	"10140"	"2021"	"2021"	"Illinois"	"17"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Indiana"	"18"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Michigan"	"26"	1
+	"Measles, Total"	"10140"	"2021"	"2021"	"Ohio"	"39"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Wisconsin"	"55"	22
+	"Measles, Total"	"10140"	"2021"	"2021"	"West North Central"	"REGION4"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Iowa"	"19"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Kansas"	"20"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Minnesota"	"27"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Missouri"	"29"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Nebraska"	"31"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"North Dakota"	"38"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"South Dakota"	"46"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"South Atlantic"	"REGION5"	21
+	"Measles, Total"	"10140"	"2021"	"2021"	"Delaware"	"10"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"District of Columbia"	"11"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Florida"	"12"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Georgia"	"13"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Maryland"	"24"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"North Carolina"	"37"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"South Carolina"	"45"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Virginia"	"51"	21
+	"Measles, Total"	"10140"	"2021"	"2021"	"West Virginia"	"54"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"East South Central"	"REGION6"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Alabama"	"01"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Kentucky"	"21"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Mississippi"	"28"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Tennessee"	"47"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"West South Central"	"REGION7"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Arkansas"	"05"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Louisiana"	"22"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Oklahoma"	"40"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Texas"	"48"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Mountain"	"REGION8"	1
+	"Measles, Total"	"10140"	"2021"	"2021"	"Arizona"	"04"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Colorado"	"08"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Idaho"	"16"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Montana"	"30"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Nevada"	"32"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"New Mexico"	"35"	1
+	"Measles, Total"	"10140"	"2021"	"2021"	"Utah"	"49"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Wyoming"	"56"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Pacific"	"REGION9"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Alaska"	"02"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"California"	"06"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Hawaii"	"15"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Oregon"	"41"	0
+	"Measles, Total"	"10140"	"2021"	"2021"	"Washington"	"53"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"New England"	"REGION1"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Connecticut"	"09"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Maine"	"23"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Massachusetts"	"25"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"New Hampshire"	"33"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Rhode Island"	"44"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Vermont"	"50"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Middle Atlantic"	"REGION2"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"New Jersey"	"34"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"New York (excluding New York City)"	"36888"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"New York City"	"75772"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Pennsylvania"	"42"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"East North Central"	"REGION3"	90
+	"Measles, Total"	"10140"	"2022"	"2022"	"Illinois"	"17"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Indiana"	"18"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Michigan"	"26"	3
+	"Measles, Total"	"10140"	"2022"	"2022"	"Ohio"	"39"	87
+	"Measles, Total"	"10140"	"2022"	"2022"	"Wisconsin"	"55"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"West North Central"	"REGION4"	22
+	"Measles, Total"	"10140"	"2022"	"2022"	"Iowa"	"19"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Kansas"	"20"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Minnesota"	"27"	22
+	"Measles, Total"	"10140"	"2022"	"2022"	"Missouri"	"29"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Nebraska"	"31"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"North Dakota"	"38"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"South Dakota"	"46"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"South Atlantic"	"REGION5"	3
+	"Measles, Total"	"10140"	"2022"	"2022"	"Delaware"	"10"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"District of Columbia"	"11"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Florida"	"12"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Georgia"	"13"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Maryland"	"24"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"North Carolina"	"37"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"South Carolina"	"45"	1
+	"Measles, Total"	"10140"	"2022"	"2022"	"Virginia"	"51"	2
+	"Measles, Total"	"10140"	"2022"	"2022"	"West Virginia"	"54"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"East South Central"	"REGION6"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Alabama"	"01"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Kentucky"	"21"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Mississippi"	"28"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Tennessee"	"47"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"West South Central"	"REGION7"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Arkansas"	"05"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Louisiana"	"22"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Oklahoma"	"40"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Texas"	"48"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Mountain"	"REGION8"	5
+	"Measles, Total"	"10140"	"2022"	"2022"	"Arizona"	"04"	5
+	"Measles, Total"	"10140"	"2022"	"2022"	"Colorado"	"08"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Idaho"	"16"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Montana"	"30"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Nevada"	"32"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"New Mexico"	"35"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Utah"	"49"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Wyoming"	"56"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Pacific"	"REGION9"	1
+	"Measles, Total"	"10140"	"2022"	"2022"	"Alaska"	"02"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"California"	"06"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Hawaii"	"15"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Oregon"	"41"	0
+	"Measles, Total"	"10140"	"2022"	"2022"	"Washington"	"53"	1
+	"Measles, Total"	"10140"	"2023"	"2023"	"New England"	"REGION1"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Connecticut"	"09"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Maine"	"23"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Massachusetts"	"25"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"New Hampshire"	"33"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Rhode Island"	"44"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Vermont"	"50"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Middle Atlantic"	"REGION2"	11
+	"Measles, Total"	"10140"	"2023"	"2023"	"New Jersey"	"34"	1
+	"Measles, Total"	"10140"	"2023"	"2023"	"New York (excluding New York City)"	"36888"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"New York City"	"75772"	1
+	"Measles, Total"	"10140"	"2023"	"2023"	"Pennsylvania"	"42"	9
+	"Measles, Total"	"10140"	"2023"	"2023"	"East North Central"	"REGION3"	10
+	"Measles, Total"	"10140"	"2023"	"2023"	"Illinois"	"17"	5
+	"Measles, Total"	"10140"	"2023"	"2023"	"Indiana"	"18"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Michigan"	"26"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Ohio"	"39"	4
+	"Measles, Total"	"10140"	"2023"	"2023"	"Wisconsin"	"55"	1
+	"Measles, Total"	"10140"	"2023"	"2023"	"West North Central"	"REGION4"	1
+	"Measles, Total"	"10140"	"2023"	"2023"	"Iowa"	"19"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Kansas"	"20"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Minnesota"	"27"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Missouri"	"29"	1
+	"Measles, Total"	"10140"	"2023"	"2023"	"Nebraska"	"31"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"North Dakota"	"38"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"South Dakota"	"46"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"South Atlantic"	"REGION5"	6
+	"Measles, Total"	"10140"	"2023"	"2023"	"Delaware"	"10"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"District of Columbia"	"11"	2
+	"Measles, Total"	"10140"	"2023"	"2023"	"Florida"	"12"	2
+	"Measles, Total"	"10140"	"2023"	"2023"	"Georgia"	"13"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Maryland"	"24"	1
+	"Measles, Total"	"10140"	"2023"	"2023"	"North Carolina"	"37"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"South Carolina"	"45"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Virginia"	"51"	1
+	"Measles, Total"	"10140"	"2023"	"2023"	"West Virginia"	"54"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"East South Central"	"REGION6"	2
+	"Measles, Total"	"10140"	"2023"	"2023"	"Alabama"	"01"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Kentucky"	"21"	2
+	"Measles, Total"	"10140"	"2023"	"2023"	"Mississippi"	"28"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Tennessee"	"47"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"West South Central"	"REGION7"	3
+	"Measles, Total"	"10140"	"2023"	"2023"	"Arkansas"	"05"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Louisiana"	"22"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Oklahoma"	"40"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Texas"	"48"	3
+	"Measles, Total"	"10140"	"2023"	"2023"	"Mountain"	"REGION8"	12
+	"Measles, Total"	"10140"	"2023"	"2023"	"Arizona"	"04"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Colorado"	"08"	1
+	"Measles, Total"	"10140"	"2023"	"2023"	"Idaho"	"16"	10
+	"Measles, Total"	"10140"	"2023"	"2023"	"Montana"	"30"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Nevada"	"32"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"New Mexico"	"35"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Utah"	"49"	1
+	"Measles, Total"	"10140"	"2023"	"2023"	"Wyoming"	"56"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"Pacific"	"REGION9"	19
+	"Measles, Total"	"10140"	"2023"	"2023"	"Alaska"	"02"	0
+	"Measles, Total"	"10140"	"2023"	"2023"	"California"	"06"	4
+	"Measles, Total"	"10140"	"2023"	"2023"	"Hawaii"	"15"	2
+	"Measles, Total"	"10140"	"2023"	"2023"	"Oregon"	"41"	1
+	"Measles, Total"	"10140"	"2023"	"2023"	"Washington"	"53"	12
+"---"
+"Dataset: NNDSS Annual Summary Data 2016-2023"
+"Query Parameters:"
+"Disease: Measles, Total"
+"Regions/States: New England; Connecticut; Maine; Massachusetts; New Hampshire; Rhode Island; Vermont; Middle Atlantic; New"
+"Jersey; New York (excluding New York City); New York City; Pennsylvania; East North Central; Illinois; Indiana; Michigan; Ohio;"
+"Wisconsin; West North Central; Iowa; Kansas; Minnesota; Missouri; Nebraska; North Dakota; South Dakota; South Atlantic;"
+"Delaware; District of Columbia; Florida; Georgia; Maryland; North Carolina; South Carolina; Virginia; West Virginia; East South"
+"Central; Alabama; Kentucky; Mississippi; Tennessee; West South Central; Arkansas; Louisiana; Oklahoma; Texas; Mountain; Arizona;"
+"Colorado; Idaho; Montana; Nevada; New Mexico; Utah; Wyoming; Pacific; Alaska; California; Hawaii; Oregon; Washington"
+"Group By: Disease; Year; Regions/States"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/nndss.html for more information."
+"---"
+"Query Date: Oct 20, 2026 12:05:41 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention. National Notifiable Diseases Surveillance System (NNDSS) Annual"
+"Summary Data for years 2016-2023, United States, CDC WONDER online database. Accessed at"
+"http://wonder.cdc.gov/nndss-annual-summary.html on Oct 20, 2026 12:05:41 AM"
+"---"
+Messages:
+"1. Totals are disabled when data are grouped Regions/States, Regions, or States."
+"---"
+Footnotes:
+"1. Zero when no reported cases ? The reporting jurisdiction did not submit any cases to CDC. Not reportable ? The disease or"
+"condition was not reportable by law, statute, or regulation in the reporting jurisdiction. Unavailable ? The data are"
+"unavailable. See Caveats below for more information."
+"---"
+Caveats:
+"1. When the number of cases is zero, the reporting jurisdiction did not submit any cases to CDC."
+"2. When evaluating event case counts over time, you should carefully consider the effect that event case definition revisions"
+"(e.g. combining, subsetting, and retirement of events) will have on your query results. More information:"
+"http://wonder.cdc.gov/wonder/help/nndss.html#Reporting."
+"3. Acknowledgment: CDC acknowledges the local, state, and territorial health departments that collected the data from a range of"
+"case ascertainment sources (e.g. healthcare providers, hospitals, laboratories) and reported these data to CDC's National"
+"Notifiable Diseases Surveillance System."
+"4. Population estimates for calculating incidence rates are mid-year resident populations for the reporting jurisdictions from"
+"the most recent series of estimates available at the time of publication. Congenital syphilis incidence rates are calculated"
+"with the number of live births in the reporting jurisdictions for the year. More information:"
+"http://wonder.cdc.gov/wonder/help/nndss.html#Population-Sources."
+"5. When the national frequency of a disease is less than 25 cases in a year, then the data for race and ethnicity are"
+"categorized as Suppressed. More information: http://wonder.cdc.gov/wonder/help/nndss.html#Privacy-Policies."
+"6. Values in charts and maps refer to statistical measures, such as Case Counts, Populations and Rates. Codes refer to the brief"
+"designation assigned to category labels, such as the Federal Information Processing System (FIPS) code 36 for New York State."
+"7. Any variation of disease incidence by race or ethnicity does not reflect biological differences but reflects systemic,"
+"cultural, behavioral, and social factors including structural racism."
