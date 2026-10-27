@@ -3,9 +3,10 @@
 
 import pandas as pd
 import statsmodels.formula.api as smf
+from pathlib import Path
 
 # Load harmonized dataset
-hepb = pd.read_csv("HepB_Harmonized_Data.csv")
+hepb = pd.read_csv(Path(__file__).resolve().parents[2] / "data" / "hepB" / "cleaned" / "HepB_Harmonized_Data.csv")
 
 # Select lag0 observations
 lag0 = hepb[hepb["lag"] == 0].copy()
@@ -70,3 +71,19 @@ sensitivity_results = pd.DataFrame(sensitivity_results)
 
 print("\nFixed-Effects Sensitivity Analysis (Excluding West Virginia):")
 print(sensitivity_results.round(4).to_string(index=False))
+
+# Save fixed-effects regression results
+output_folder = Path(__file__).resolve().parents[2] / "data" / "hepB" / "analysis"
+output_folder.mkdir(parents=True, exist_ok=True)
+
+# Save full-sample lag-0 regression
+lag0_results = pd.DataFrame([{"lag": 0, "observations": int(model.nobs), "coefficient": model.params["hepb_3dose_pct"], "p_value": model.pvalues["hepb_3dose_pct"],
+    "ci_lower": model.conf_int().loc["hepb_3dose_pct", 0], "ci_upper": model.conf_int().loc["hepb_3dose_pct", 1]}])
+
+lag0_results.to_csv(output_folder / "HepB_FixedEffects_Lag0_FullSample.csv", index=False)
+
+# Save common-cohort lag comparison
+regression_results.to_csv(output_folder / "HepB_FixedEffects_Results.csv", index=False)
+
+# Save sensitivity analysis excluding West Virginia
+sensitivity_results.to_csv(output_folder / "HepB_FixedEffects_Sensitivity.csv", index=False)
