@@ -21,17 +21,17 @@ All the tables and figures are already saved in this repository, so the dashboar
 
 ```
 pip install -r requirements.txt
-python run\_all.py
+python run_all.py
 streamlit run app.py
 ```
 
-`run\_all.py` rebuilds the tables and figures (about 1 minute) and replaces the saved copies. Three of the hepatitis B scripts download archived CDC web pages, so you need an internet connection.
+`run_all.py` rebuilds the tables and figures (about 1 minute) and replaces the saved copies. Three of the hepatitis B scripts download archived CDC web pages, so you need an internet connection.
 
 ## What is in the folders
 
 ```
 app.py              the Streamlit dashboard
-run\_all.py          runs all the scripts in the right order
+run_all.py          runs all the scripts in the right order
 requirements.txt    Python packages
 scripts/
   mmr/              measles, mumps, rubella vs MMR and hepatitis B coverage
