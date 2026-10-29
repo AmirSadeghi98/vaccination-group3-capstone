@@ -11,8 +11,8 @@ You need Python 3.10 or newer. Open a terminal in this folder.
 **Option 1: open the dashboard right away**
 
 ```
-pip install -r requirements.txt
-streamlit run app.py
+python -m install -r requirements.txt
+python -m streamlit run app.py
 ```
 
 All the tables and figures are already saved in this repository, so the dashboard works straight after downloading.
@@ -20,9 +20,9 @@ All the tables and figures are already saved in this repository, so the dashboar
 **Option 2: rebuild everything from the raw data first (needs internet)**
 
 ```
-pip install -r requirements.txt
+python -m install -r requirements.txt
 python run_all.py
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 `run_all.py` rebuilds the tables and figures (about 1 minute) and replaces the saved copies. Three of the hepatitis B scripts download archived CDC web pages, so you need an internet connection.
