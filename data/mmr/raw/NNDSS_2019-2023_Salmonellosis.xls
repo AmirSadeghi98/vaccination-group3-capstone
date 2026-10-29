@@ -1,0 +1,362 @@
+"Notes"	"Disease"	"Disease Code"	"Year"	"Year Code"	"Regions/States"	"Regions/States Code"	Case Count
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"United States"	"U.S."	58371
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"New England"	"REGION1"	2211
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Connecticut"	"09"	524
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Maine"	"23"	140
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Massachusetts"	"25"	1109
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"New Hampshire"	"33"	173
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Rhode Island"	"44"	152
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Vermont"	"50"	113
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Middle Atlantic"	"REGION2"	6273
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"New Jersey"	"34"	1478
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"New York (excluding New York City)"	"36888"	1544
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"New York City"	"75772"	1547
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Pennsylvania"	"42"	1704
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"East North Central"	"REGION3"	6418
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Illinois"	"17"	2000
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Indiana"	"18"	859
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Michigan"	"26"	1071
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Ohio"	"39"	1610
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Wisconsin"	"55"	878
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"West North Central"	"REGION4"	3671
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Iowa"	"19"	819
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Kansas"	"20"	522
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Minnesota"	"27"	840
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Missouri"	"29"	922
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Nebraska"	"31"	310
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"North Dakota"	"38"	92
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"South Dakota"	"46"	166
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"South Atlantic"	"REGION5"	17015
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Delaware"	"10"	0
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"District of Columbia"	"11"	54
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Florida"	"12"	7099
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Georgia"	"13"	2702
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Maryland"	"24"	1001
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"North Carolina"	"37"	2644
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"South Carolina"	"45"	1853
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Virginia"	"51"	1396
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"West Virginia"	"54"	266
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"East South Central"	"REGION6"	4092
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Alabama"	"01"	1000
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Kentucky"	"21"	748
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Mississippi"	"28"	1233
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Tennessee"	"47"	1111
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"West South Central"	"REGION7"	8406
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Arkansas"	"05"	655
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Louisiana"	"22"	1253
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Oklahoma"	"40"	1123
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Texas"	"48"	5375
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Mountain"	"REGION8"	3008
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Arizona"	"04"	954
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Colorado"	"08"	694
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Idaho"	"16"	215
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Montana"	"30"	138
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Nevada"	"32"	246
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"New Mexico"	"35"	374
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Utah"	"49"	326
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Wyoming"	"56"	61
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Pacific"	"REGION9"	7277
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Alaska"	"02"	49
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"California"	"06"	5762
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Hawaii"	"15"	282
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Oregon"	"41"	459
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2019"	"2019"	"Washington"	"53"	725
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"United States"	"U.S."	45442
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"New England"	"REGION1"	1541
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Connecticut"	"09"	349
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Maine"	"23"	111
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Massachusetts"	"25"	737
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"New Hampshire"	"33"	151
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Rhode Island"	"44"	115
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Vermont"	"50"	78
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Middle Atlantic"	"REGION2"	4557
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"New Jersey"	"34"	1057
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"New York (excluding New York City)"	"36888"	1210
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"New York City"	"75772"	923
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Pennsylvania"	"42"	1367
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"East North Central"	"REGION3"	4814
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Illinois"	"17"	1340
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Indiana"	"18"	684
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Michigan"	"26"	907
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Ohio"	"39"	1178
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Wisconsin"	"55"	705
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"West North Central"	"REGION4"	3150
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Iowa"	"19"	612
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Kansas"	"20"	488
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Minnesota"	"27"	714
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Missouri"	"29"	797
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Nebraska"	"31"	269
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"North Dakota"	"38"	90
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"South Dakota"	"46"	180
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"South Atlantic"	"REGION5"	15026
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Delaware"	"10"	194
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"District of Columbia"	"11"	34
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Florida"	"12"	6738
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Georgia"	"13"	2063
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Maryland"	"24"	702
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"North Carolina"	"37"	2354
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"South Carolina"	"45"	1705
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Virginia"	"51"	985
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"West Virginia"	"54"	251
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"East South Central"	"REGION6"	3317
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Alabama"	"01"	882
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Kentucky"	"21"	662
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Mississippi"	"28"	940
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Tennessee"	"47"	833
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"West South Central"	"REGION7"	5629
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Arkansas"	"05"	461
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Louisiana"	"22"	1314
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Oklahoma"	"40"	822
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Texas"	"48"	3032
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Mountain"	"REGION8"	2382
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Arizona"	"04"	631
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Colorado"	"08"	599
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Idaho"	"16"	206
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Montana"	"30"	187
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Nevada"	"32"	52
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"New Mexico"	"35"	250
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Utah"	"49"	351
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Wyoming"	"56"	106
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Pacific"	"REGION9"	5026
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Alaska"	"02"	57
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"California"	"06"	3667
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Hawaii"	"15"	134
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Oregon"	"41"	465
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2020"	"2020"	"Washington"	"53"	703
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"United States"	"U.S."	49249
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"New England"	"REGION1"	1867
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Connecticut"	"09"	433
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Maine"	"23"	129
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Massachusetts"	"25"	899
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"New Hampshire"	"33"	157
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Rhode Island"	"44"	137
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Vermont"	"50"	112
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Middle Atlantic"	"REGION2"	5001
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"New Jersey"	"34"	1124
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"New York (excluding New York City)"	"36888"	1288
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"New York City"	"75772"	1136
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Pennsylvania"	"42"	1453
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"East North Central"	"REGION3"	5496
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Illinois"	"17"	1835
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Indiana"	"18"	701
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Michigan"	"26"	867
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Ohio"	"39"	1196
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Wisconsin"	"55"	897
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"West North Central"	"REGION4"	3809
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Iowa"	"19"	666
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Kansas"	"20"	534
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Minnesota"	"27"	1020
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Missouri"	"29"	906
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Nebraska"	"31"	360
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"North Dakota"	"38"	103
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"South Dakota"	"46"	220
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"South Atlantic"	"REGION5"	14608
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Delaware"	"10"	191
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"District of Columbia"	"11"	14
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Florida"	"12"	6240
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Georgia"	"13"	2135
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Maryland"	"24"	820
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"North Carolina"	"37"	2236
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"South Carolina"	"45"	1519
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Virginia"	"51"	1218
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"West Virginia"	"54"	235
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"East South Central"	"REGION6"	3117
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Alabama"	"01"	856
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Kentucky"	"21"	586
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Mississippi"	"28"	825
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Tennessee"	"47"	850
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"West South Central"	"REGION7"	6494
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Arkansas"	"05"	535
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Louisiana"	"22"	1074
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Oklahoma"	"40"	797
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Texas"	"48"	4088
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Mountain"	"REGION8"	3089
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Arizona"	"04"	868
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Colorado"	"08"	992
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Idaho"	"16"	185
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Montana"	"30"	108
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Nevada"	"32"	202
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"New Mexico"	"35"	323
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Utah"	"49"	324
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Wyoming"	"56"	87
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Pacific"	"REGION9"	5768
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Alaska"	"02"	19
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"California"	"06"	4635
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Hawaii"	"15"	138
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Oregon"	"41"	339
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2021"	"2021"	"Washington"	"53"	637
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"United States"	"U.S."	56129
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"New England"	"REGION1"	2173
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Connecticut"	"09"	454
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Maine"	"23"	150
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Massachusetts"	"25"	1092
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"New Hampshire"	"33"	213
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Rhode Island"	"44"	147
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Vermont"	"50"	117
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Middle Atlantic"	"REGION2"	6124
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"New Jersey"	"34"	1273
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"New York (excluding New York City)"	"36888"	1927
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"New York City"	"75772"	1293
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Pennsylvania"	"42"	1631
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"East North Central"	"REGION3"	5691
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Illinois"	"17"	1683
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Indiana"	"18"	783
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Michigan"	"26"	851
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Ohio"	"39"	1345
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Wisconsin"	"55"	1029
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"West North Central"	"REGION4"	3969
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Iowa"	"19"	728
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Kansas"	"20"	506
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Minnesota"	"27"	1040
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Missouri"	"29"	920
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Nebraska"	"31"	403
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"North Dakota"	"38"	122
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"South Dakota"	"46"	250
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"South Atlantic"	"REGION5"	15811
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Delaware"	"10"	214
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"District of Columbia"	"11"	12
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Florida"	"12"	7044
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Georgia"	"13"	2264
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Maryland"	"24"	859
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"North Carolina"	"37"	2416
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"South Carolina"	"45"	1584
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Virginia"	"51"	1198
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"West Virginia"	"54"	220
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"East South Central"	"REGION6"	3599
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Alabama"	"01"	997
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Kentucky"	"21"	622
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Mississippi"	"28"	1023
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Tennessee"	"47"	957
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"West South Central"	"REGION7"	8166
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Arkansas"	"05"	619
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Louisiana"	"22"	1300
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Oklahoma"	"40"	761
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Texas"	"48"	5486
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Mountain"	"REGION8"	3542
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Arizona"	"04"	1173
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Colorado"	"08"	901
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Idaho"	"16"	273
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Montana"	"30"	165
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Nevada"	"32"	46
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"New Mexico"	"35"	472
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Utah"	"49"	411
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Wyoming"	"56"	101
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Pacific"	"REGION9"	7054
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Alaska"	"02"	57
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"California"	"06"	5597
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Hawaii"	"15"	178
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Oregon"	"41"	483
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2022"	"2022"	"Washington"	"53"	739
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"United States"	"U.S."	60934
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"New England"	"REGION1"	2322
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Connecticut"	"09"	499
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Maine"	"23"	121
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Massachusetts"	"25"	1187
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"New Hampshire"	"33"	213
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Rhode Island"	"44"	184
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Vermont"	"50"	118
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Middle Atlantic"	"REGION2"	6601
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"New Jersey"	"34"	1518
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"New York (excluding New York City)"	"36888"	1847
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"New York City"	"75772"	1498
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Pennsylvania"	"42"	1738
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"East North Central"	"REGION3"	6780
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Illinois"	"17"	2083
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Indiana"	"18"	972
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Michigan"	"26"	1082
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Ohio"	"39"	1613
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Wisconsin"	"55"	1030
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"West North Central"	"REGION4"	4440
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Iowa"	"19"	795
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Kansas"	"20"	682
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Minnesota"	"27"	1046
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Missouri"	"29"	1120
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Nebraska"	"31"	447
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"North Dakota"	"38"	103
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"South Dakota"	"46"	247
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"South Atlantic"	"REGION5"	15879
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Delaware"	"10"	218
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"District of Columbia"	"11"	50
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Florida"	"12"	7131
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Georgia"	"13"	2122
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Maryland"	"24"	1090
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"North Carolina"	"37"	2288
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"South Carolina"	"45"	1473
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Virginia"	"51"	1260
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"West Virginia"	"54"	247
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"East South Central"	"REGION6"	3512
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Alabama"	"01"	879
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Kentucky"	"21"	699
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Mississippi"	"28"	950
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Tennessee"	"47"	984
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"West South Central"	"REGION7"	8616
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Arkansas"	"05"	720
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Louisiana"	"22"	1194
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Oklahoma"	"40"	953
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Texas"	"48"	5749
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Mountain"	"REGION8"	3918
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Arizona"	"04"	1242
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Colorado"	"08"	917
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Idaho"	"16"	318
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Montana"	"30"	177
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Nevada"	"32"	302
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"New Mexico"	"35"	349
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Utah"	"49"	532
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Wyoming"	"56"	81
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Pacific"	"REGION9"	8866
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Alaska"	"02"	89
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"California"	"06"	6988
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Hawaii"	"15"	207
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Oregon"	"41"	565
+	"Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"	"50265"	"2023"	"2023"	"Washington"	"53"	1017
+"---"
+"Dataset: NNDSS Annual Summary Data 2016-2023"
+"Query Parameters:"
+"Disease: Salmonellosis (excluding S. Typhi infection and S. Paratyphi infection)"
+"Regions/States: United States; New England; Connecticut; Maine; Massachusetts; New Hampshire; Rhode Island; Vermont; Middle"
+"Atlantic; New Jersey; New York (excluding New York City); New York City; Pennsylvania; East North Central; Illinois; Indiana;"
+"Michigan; Ohio; Wisconsin; West North Central; Iowa; Kansas; Minnesota; Missouri; Nebraska; North Dakota; South Dakota; South"
+"Atlantic; Delaware; District of Columbia; Florida; Georgia; Maryland; North Carolina; South Carolina; Virginia; West Virginia;"
+"East South Central; Alabama; Kentucky; Mississippi; Tennessee; West South Central; Arkansas; Louisiana; Oklahoma; Texas;"
+"Mountain; Arizona; Colorado; Idaho; Montana; Nevada; New Mexico; Utah; Wyoming; Pacific; Alaska; California; Hawaii; Oregon;"
+"Washington"
+"Year: 2019; 2020; 2021; 2022; 2023"
+"Group By: Disease; Year; Regions/States"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/nndss.html for more information."
+"---"
+"Query Date: Oct 21, 2026 2:36:47 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention. National Notifiable Diseases Surveillance System (NNDSS) Annual"
+"Summary Data for years 2016-2023, United States, CDC WONDER online database. Accessed at"
+"http://wonder.cdc.gov/nndss-annual-summary.html on Oct 21, 2026 2:36:47 AM"
+"---"
+Messages:
+"1. Totals are disabled when data are grouped Regions/States, Regions, or States."
+"---"
+Footnotes:
+"1. Zero when no reported cases ? The reporting jurisdiction did not submit any cases to CDC. Not reportable ? The disease or"
+"condition was not reportable by law, statute, or regulation in the reporting jurisdiction. Unavailable ? The data are"
+"unavailable. See Caveats below for more information."
+"---"
+Caveats:
+"1. When the number of cases is zero, the reporting jurisdiction did not submit any cases to CDC."
+"2. When evaluating event case counts over time, you should carefully consider the effect that event case definition revisions"
+"(e.g. combining, subsetting, and retirement of events) will have on your query results. More information:"
+"http://wonder.cdc.gov/wonder/help/nndss.html#Reporting."
+"3. Acknowledgment: CDC acknowledges the local, state, and territorial health departments that collected the data from a range of"
+"case ascertainment sources (e.g. healthcare providers, hospitals, laboratories) and reported these data to CDC's National"
+"Notifiable Diseases Surveillance System."
+"4. Population estimates for calculating incidence rates are mid-year resident populations for the reporting jurisdictions from"
+"the most recent series of estimates available at the time of publication. Congenital syphilis incidence rates are calculated"
+"with the number of live births in the reporting jurisdictions for the year. More information:"
+"http://wonder.cdc.gov/wonder/help/nndss.html#Population-Sources."
+"5. When the national frequency of a disease is less than 25 cases in a year, then the data for race and ethnicity are"
+"categorized as Suppressed. More information: http://wonder.cdc.gov/wonder/help/nndss.html#Privacy-Policies."
+"6. Values in charts and maps refer to statistical measures, such as Case Counts, Populations and Rates. Codes refer to the brief"
+"designation assigned to category labels, such as the Federal Information Processing System (FIPS) code 36 for New York State."
+"7. Any variation of disease incidence by race or ethnicity does not reflect biological differences but reflects systemic,"
+"cultural, behavioral, and social factors including structural racism."

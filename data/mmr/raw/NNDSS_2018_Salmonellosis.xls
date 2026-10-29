@@ -1,0 +1,114 @@
+"Notes"	"Disease"	"Disease Code"	"Year"	"Year Code"	"Regions/States"	"Regions/States Code"	Case Count
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"United States"	"U.S."	60999
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"New England"	"REGION1"	2284
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Connecticut"	"09"	496
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Maine"	"23"	119
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Massachusetts"	"25"	1225
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"New Hampshire"	"33"	178
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Rhode Island"	"44"	175
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Vermont"	"50"	91
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Middle Atlantic"	"REGION2"	5780
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"New Jersey"	"34"	1307
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"New York (excluding New York City)"	"36888"	1466
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"New York City"	"75772"	1279
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Pennsylvania"	"42"	1728
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"East North Central"	"REGION3"	6525
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Illinois"	"17"	2033
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Indiana"	"18"	799
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Michigan"	"26"	1157
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Ohio"	"39"	1502
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Wisconsin"	"55"	1034
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"West North Central"	"REGION4"	4842
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Iowa"	"19"	1102
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Kansas"	"20"	615
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Minnesota"	"27"	1072
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Missouri"	"29"	1318
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Nebraska"	"31"	392
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"North Dakota"	"38"	117
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"South Dakota"	"46"	226
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"South Atlantic"	"REGION5"	17152
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Delaware"	"10"	215
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"District of Columbia"	"11"	78
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Florida"	"12"	7224
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Georgia"	"13"	2597
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Maryland"	"24"	967
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"North Carolina"	"37"	2874
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"South Carolina"	"45"	1597
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Virginia"	"51"	1356
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"West Virginia"	"54"	244
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"East South Central"	"REGION6"	4175
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Alabama"	"01"	1196
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Kentucky"	"21"	661
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Mississippi"	"28"	1191
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Tennessee"	"47"	1127
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"West South Central"	"REGION7"	8680
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Arkansas"	"05"	676
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Louisiana"	"22"	1180
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Oklahoma"	"40"	970
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Texas"	"48"	5854
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Mountain"	"REGION8"	3525
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Arizona"	"04"	1149
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Colorado"	"08"	900
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Idaho"	"16"	225
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Montana"	"30"	135
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Nevada"	"32"	251
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"New Mexico"	"35"	421
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Utah"	"49"	362
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Wyoming"	"56"	82
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Pacific"	"REGION9"	8036
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Alaska"	"02"	47
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"California"	"06"	6247
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Hawaii"	"15"	334
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Oregon"	"41"	580
+	"Salmonellosis (excluding paratyphoid fever and typhoid fever)"	"50242"	"2018"	"2018"	"Washington"	"53"	828
+"---"
+"Dataset: NNDSS Annual Summary Data 2016-2023"
+"Query Parameters:"
+"Disease: Salmonellosis (excluding paratyphoid fever and typhoid fever)"
+"Regions/States: United States; New England; Connecticut; Maine; Massachusetts; New Hampshire; Rhode Island; Vermont; Middle"
+"Atlantic; New Jersey; New York (excluding New York City); New York City; Pennsylvania; East North Central; Illinois; Indiana;"
+"Michigan; Ohio; Wisconsin; West North Central; Iowa; Kansas; Minnesota; Missouri; Nebraska; North Dakota; South Dakota; South"
+"Atlantic; Delaware; District of Columbia; Florida; Georgia; Maryland; North Carolina; South Carolina; Virginia; West Virginia;"
+"East South Central; Alabama; Kentucky; Mississippi; Tennessee; West South Central; Arkansas; Louisiana; Oklahoma; Texas;"
+"Mountain; Arizona; Colorado; Idaho; Montana; Nevada; New Mexico; Utah; Wyoming; Pacific; Alaska; California; Hawaii; Oregon;"
+"Washington"
+"Year: 2018"
+"Group By: Disease; Year; Regions/States"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/nndss.html for more information."
+"---"
+"Query Date: Oct 21, 2026 2:17:45 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention. National Notifiable Diseases Surveillance System (NNDSS) Annual"
+"Summary Data for years 2016-2023, United States, CDC WONDER online database. Accessed at"
+"http://wonder.cdc.gov/nndss-annual-summary.html on Oct 21, 2026 2:17:45 AM"
+"---"
+Messages:
+"1. Totals are disabled when data are grouped Regions/States, Regions, or States."
+"---"
+Footnotes:
+"1. Zero when no reported cases ? The reporting jurisdiction did not submit any cases to CDC. Not reportable ? The disease or"
+"condition was not reportable by law, statute, or regulation in the reporting jurisdiction. Unavailable ? The data are"
+"unavailable. See Caveats below for more information."
+"---"
+Caveats:
+"1. When the number of cases is zero, the reporting jurisdiction did not submit any cases to CDC."
+"2. When evaluating event case counts over time, you should carefully consider the effect that event case definition revisions"
+"(e.g. combining, subsetting, and retirement of events) will have on your query results. More information:"
+"http://wonder.cdc.gov/wonder/help/nndss.html#Reporting."
+"3. Acknowledgment: CDC acknowledges the local, state, and territorial health departments that collected the data from a range of"
+"case ascertainment sources (e.g. healthcare providers, hospitals, laboratories) and reported these data to CDC's National"
+"Notifiable Diseases Surveillance System."
+"4. Population estimates for calculating incidence rates are mid-year resident populations for the reporting jurisdictions from"
+"the most recent series of estimates available at the time of publication. Congenital syphilis incidence rates are calculated"
+"with the number of live births in the reporting jurisdictions for the year. More information:"
+"http://wonder.cdc.gov/wonder/help/nndss.html#Population-Sources."
+"5. When the national frequency of a disease is less than 25 cases in a year, then the data for race and ethnicity are"
+"categorized as Suppressed. More information: http://wonder.cdc.gov/wonder/help/nndss.html#Privacy-Policies."
+"6. Values in charts and maps refer to statistical measures, such as Case Counts, Populations and Rates. Codes refer to the brief"
+"designation assigned to category labels, such as the Federal Information Processing System (FIPS) code 36 for New York State."
+"7. Any variation of disease incidence by race or ethnicity does not reflect biological differences but reflects systemic,"
+"cultural, behavioral, and social factors including structural racism."
