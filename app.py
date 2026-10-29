@@ -373,15 +373,16 @@ with st.sidebar:
     st.caption("UMGC Fall 2026 / MS Biotechnology / Vaccination Group 3")
 
 # Create navigation cards
+def go_to_page(destination):
+    st.session_state.page = destination
+
 def research_card(number, title, description, destination, key, category):
     with st.container(border=True):
         st.caption(f"{number} / {category}")
         st.markdown(f"#### {title}")
         st.caption(description)
 
-        if st.button("Explore →", key=key):
-            st.session_state.page = destination
-            st.rerun()
+        st.button("Explore →", key=key, on_click=go_to_page, args=(destination,))
 
 # Overview page functionality
 if selected_page == "Overview":
