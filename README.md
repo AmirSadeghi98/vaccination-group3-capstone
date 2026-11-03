@@ -11,7 +11,7 @@ You need Python 3.10 or newer. Open a terminal in this folder.
 **Option 1: open the dashboard right away**
 
 ```
-python -m install -r requirements.txt
+python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
@@ -20,7 +20,7 @@ All the tables and figures are already saved in this repository, so the dashboar
 **Option 2: rebuild everything from the raw data first (needs internet)**
 
 ```
-python -m install -r requirements.txt
+python -m pip install -r requirements.txt
 python run_all.py
 python -m streamlit run app.py
 ```
