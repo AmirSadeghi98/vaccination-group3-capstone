@@ -1,4 +1,4 @@
-"Vaccine","Dose","Geography Type","Geography","Birth Year/Birth Cohort","Dimension Type","Dimension","Estimate (%)","95% CI (%)","Sample Size"
+﻿"Vaccine","Dose","Geography Type","Geography","Birth Year/Birth Cohort","Dimension Type","Dimension","Estimate (%)","95% CI (%)","Sample Size"
 "Influenza","","HHS Regions/National","United States","2016-2019","Insurance Coverage","Uninsured","37.5","33.2 to 41.8","1616"
 "Hep A","≥2 Doses","HHS Regions/National","United States","2016-2019","Insurance Coverage","Private Insurance Only","82.2","81.0 to 83.4","37121"
 "Hep A","≥2 Doses","HHS Regions/National","United States","2016-2019","Insurance Coverage","Any Medicaid","75.3","73.6 to 77.0","22343"

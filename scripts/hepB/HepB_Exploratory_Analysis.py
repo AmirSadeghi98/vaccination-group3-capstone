@@ -1,7 +1,17 @@
+from pathlib import Path
+
+# Folders (this file is in scripts/hepB/, so the repository folder is two levels up)
+ROOT = Path(__file__).resolve().parents[2]
+RAW = ROOT / "data" / "hepB" / "raw"
+CLEAN = ROOT / "data" / "hepB" / "cleaned"
+FIGS = ROOT / "documents" / "figures" / "hepB"
+CLEAN.mkdir(parents=True, exist_ok=True)
+FIGS.mkdir(parents=True, exist_ok=True)
+
 import pandas as pd
 
 # Load harmonized HepB dataset
-hepb = pd.read_csv("HepB_Harmonized_Data.csv")
+hepb = pd.read_csv(CLEAN / "HepB_Harmonized_Data.csv")
 
 # Verify dataset structure
 print("Dataset shape:", hepb.shape)

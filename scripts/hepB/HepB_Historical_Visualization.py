@@ -1,12 +1,22 @@
+from pathlib import Path
+
+# Folders (this file is in scripts/hepB/, so the repository folder is two levels up)
+ROOT = Path(__file__).resolve().parents[2]
+RAW = ROOT / "data" / "hepB" / "raw"
+CLEAN = ROOT / "data" / "hepB" / "cleaned"
+FIGS = ROOT / "documents" / "figures" / "hepB"
+CLEAN.mkdir(parents=True, exist_ok=True)
+FIGS.mkdir(parents=True, exist_ok=True)
+
 # Combined historical HepB visualization
 
 import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load cleaned datasets
-coverage = pd.read_csv("HepB_Historical_Coverage_1994_2014.csv", encoding="utf-8-sig")
+coverage = pd.read_csv(CLEAN / "HepB_Historical_Coverage_1994_2014.csv", encoding="utf-8-sig")
 
-incidence = pd.read_csv("HepB_AgeSpecific_Incidence_2003_2023.csv", encoding="utf-8-sig")
+incidence = pd.read_csv(CLEAN / "HepB_AgeSpecific_Incidence_2003_2023.csv", encoding="utf-8-sig")
 
 # Create two-panel figure
 fig, axes = plt.subplots(2, 1, figsize=(11, 9))
@@ -33,6 +43,6 @@ axes[1].set_xticks(range(2003, 2024, 2))
 
 plt.tight_layout()
 
-plt.savefig("HepB_Historical_Combined_Trends.png",dpi=300)
+plt.savefig(FIGS / "HepB_Historical_Combined_Trends.png",dpi=300)
 
 plt.show()

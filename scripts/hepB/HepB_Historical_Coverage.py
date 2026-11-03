@@ -1,9 +1,25 @@
+from pathlib import Path
+
+# Folders (this file is in scripts/hepB/, so the repository folder is two levels up)
+ROOT = Path(__file__).resolve().parents[2]
+RAW = ROOT / "data" / "hepB" / "raw"
+CLEAN = ROOT / "data" / "hepB" / "cleaned"
+FIGS = ROOT / "documents" / "figures" / "hepB"
+CLEAN.mkdir(parents=True, exist_ok=True)
+FIGS.mkdir(parents=True, exist_ok=True)
+
 import pandas as pd
 
 # Retrieve historical CDC childhood vaccination coverage
 url = "https://archive.cdc.gov/www_cdc_gov/vaccines/imz-managers/coverage/nis/child/figures/2014-map.html"
 
-tables = pd.read_html(url)
+try:
+    tables = pd.read_html(url)
+except Exception as error:
+    # The page is an archived CDC page that may be unreachable. A saved copy of the same table is kept in data/hepB/raw/
+    print("Could not download the CDC page, using the saved copy instead:", error)
+    saved = pd.read_csv(RAW / "HepB_Historical_Coverage_1994_2014_snapshot.csv", encoding="utf-8-sig")
+    tables = [saved.rename(columns={"survey_year": "Unnamed: 0", "hepb_3dose_coverage": "HepB (3+)"})]
 
 print("\nNumber of tables found:", len(tables))
 
@@ -36,7 +52,7 @@ print("\nComplete Coverage Dataset:")
 print(coverage.to_string(index=False))
 
 # Save cleaned dataset
-coverage.to_csv("HepB_Historical_Coverage_1994_2014.csv", index=False, encoding="utf-8-sig")
+coverage.to_csv(CLEAN / "HepB_Historical_Coverage_1994_2014.csv", index=False, encoding="utf-8-sig")
 
 # Visualize historical HepB vaccination coverage
 import matplotlib.pyplot as plt
@@ -54,6 +70,6 @@ plt.ylim(0, 100)
 plt.grid(alpha=0.3)
 plt.tight_layout()
 
-plt.savefig("HepB_Historical_Coverage_Trends.png", dpi=300)
+plt.savefig(FIGS / "HepB_Historical_Coverage_Trends.png", dpi=300)
 
 plt.show()

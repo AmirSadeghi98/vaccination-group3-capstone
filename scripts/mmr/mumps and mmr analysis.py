@@ -1,9 +1,16 @@
+from pathlib import Path
+
+# Folders (this file is in scripts/mmr/, so the repository folder is two levels up)
+ROOT = Path(__file__).resolve().parents[2]
+RAW = ROOT / "data" / "mmr" / "raw"
+CLEAN = ROOT / "data" / "mmr" / "cleaned"
+
 import pandas as pd
 from scipy.stats import pearsonr, spearmanr
 
 # read  dataset
 df = pd.read_csv(
-    "mumps mmr merge with population 2000-2021_final.csv")
+    CLEAN / "mumps mmr merge with population 2000-2021_final.csv")
 
 # check data types
 df["Year"] = pd.to_numeric(df["Year"], errors="coerce")
@@ -79,5 +86,5 @@ results_table = pd.DataFrame(results)
 
 # save
 results_table.to_csv(
-    "mumps and mmr analysis.csv",
+    CLEAN / "mumps and mmr analysis.csv",
     index=False)

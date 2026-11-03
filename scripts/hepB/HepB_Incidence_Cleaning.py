@@ -1,3 +1,13 @@
+from pathlib import Path
+
+# Folders (this file is in scripts/hepB/, so the repository folder is two levels up)
+ROOT = Path(__file__).resolve().parents[2]
+RAW = ROOT / "data" / "hepB" / "raw"
+CLEAN = ROOT / "data" / "hepB" / "cleaned"
+FIGS = ROOT / "documents" / "figures" / "hepB"
+CLEAN.mkdir(parents=True, exist_ok=True)
+FIGS.mkdir(parents=True, exist_ok=True)
+
 import pandas as pd
 
 # Define 50 US states
@@ -229,7 +239,7 @@ print(
 )
 
 # Load/Import CDC 2023 Viral Hepatitis Surveillance table 
-file_2023 = "table-2.1.xlsx"
+file_2023 = RAW / "table-2.1.xlsx"
 
 # Read CDC Table 2.1
 hepb_2019_2023 = pd.read_excel(
@@ -396,6 +406,6 @@ print(
 
 # Save final cleaned dataset
 hepb_incidence.to_csv(
-    "HepB_Acute_Incidence_Clean.csv",
+    CLEAN / "HepB_Acute_Incidence_Clean.csv",
     index=False
 )

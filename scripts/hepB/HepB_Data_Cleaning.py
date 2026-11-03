@@ -1,7 +1,18 @@
+from pathlib import Path
+
+# Folders (this file is in scripts/hepB/, so the repository folder is two levels up)
+ROOT = Path(__file__).resolve().parents[2]
+RAW = ROOT / "data" / "hepB" / "raw"
+SHARED = ROOT / "data" / "shared"          # ChildVaxView file used by both pipelines
+CLEAN = ROOT / "data" / "hepB" / "cleaned"
+FIGS = ROOT / "documents" / "figures" / "hepB"
+CLEAN.mkdir(parents=True, exist_ok=True)
+FIGS.mkdir(parents=True, exist_ok=True)
+
 import pandas as pd
 
 # Load/import raw CDC CHildVaxView dataset
-df = pd.read_csv("Vaccination_Coverage_among_Young_Children_(0-35_Months)_20260924.csv")
+df = pd.read_csv(SHARED / "ChildVaxView_Vaccination_Coverage_0-35_Months_20261019.csv")
 
 print(df.shape)
 print(df.columns)
@@ -90,4 +101,4 @@ print("\nFinal shape:")
 print(hepb_clean.shape)
 
 # Save cleaned HepB vaccinate coverage dataset to CSV
-hepb_clean.to_csv("HepB_Vaccination_Coverage_Clean.csv", index=False)
+hepb_clean.to_csv(CLEAN / "HepB_Vaccination_Coverage_Clean.csv", index=False)

@@ -1,8 +1,18 @@
+from pathlib import Path
+
+# Folders (this file is in scripts/hepB/, so the repository folder is two levels up)
+ROOT = Path(__file__).resolve().parents[2]
+RAW = ROOT / "data" / "hepB" / "raw"
+CLEAN = ROOT / "data" / "hepB" / "cleaned"
+FIGS = ROOT / "documents" / "figures" / "hepB"
+CLEAN.mkdir(parents=True, exist_ok=True)
+FIGS.mkdir(parents=True, exist_ok=True)
+
 import pandas as pd 
 
 # Load cleaned HepB datasets 
-coverage = pd.read_csv("HepB_Vaccination_Coverage_Clean.csv")
-incidence = pd.read_csv("HepB_Acute_Incidence_Clean.csv")
+coverage = pd.read_csv(CLEAN / "HepB_Vaccination_Coverage_Clean.csv")
+incidence = pd.read_csv(CLEAN / "HepB_Acute_Incidence_Clean.csv")
 
 # Check shape (dimensions + names of columns) of the datasets
 print("Coverage shape:", coverage.shape)
@@ -118,7 +128,7 @@ hepb_harmonized = hepb_harmonized[
 assert (hepb_harmonized["incidence_year"] - hepb_harmonized["coverage_birth_year"] == hepb_harmonized["lag"]).all(), "Year alignment error detected!"
 
 # Save the final dataset
-hepb_harmonized.to_csv("HepB_Harmonized_Data.csv", index=False)
+hepb_harmonized.to_csv(CLEAN / "HepB_Harmonized_Data.csv", index=False)
 
 print("\nFinal harmonized dataset shape:", hepb_harmonized.shape)
 print("\nFinal columns:", hepb_harmonized.columns.tolist())

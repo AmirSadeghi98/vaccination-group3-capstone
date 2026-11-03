@@ -1,10 +1,20 @@
+from pathlib import Path
+
+# Folders (this file is in scripts/hepB/, so the repository folder is two levels up)
+ROOT = Path(__file__).resolve().parents[2]
+RAW = ROOT / "data" / "hepB" / "raw"
+CLEAN = ROOT / "data" / "hepB" / "cleaned"
+FIGS = ROOT / "documents" / "figures" / "hepB"
+CLEAN.mkdir(parents=True, exist_ok=True)
+FIGS.mkdir(parents=True, exist_ok=True)
+
 # Historical HepB Analysis
 # National age-specific acute HepB incidence, 2008–2023
 
 import pandas as pd
 
 # Load CDC Excel workbook
-raw = pd.read_excel("figure-2.4.xlsx", sheet_name="Fig2.4", header=None)
+raw = pd.read_excel(RAW / "figure-2.4.xlsx", sheet_name="Fig2.4", header=None)
 
 # Inspect worksheet structure
 print("\nWorksheet shape:")
@@ -50,7 +60,7 @@ print("\nFirst 12 Rows:")
 print(historical.head(12).to_string(index=False))
 
 # Save cleaned historical incidence data
-output_file = "HepB_AgeSpecific_Incidence_2008_2023.csv"
+output_file = CLEAN / "HepB_AgeSpecific_Incidence_2008_2023.csv"
 
 historical.to_csv(output_file, index=False, encoding="utf-8-sig")
 
@@ -132,7 +142,7 @@ print("\nObservations Per Year:")
 print(combined.groupby("year").size().to_string())
 
 # Save combined dataset
-output_file = "HepB_AgeSpecific_Incidence_2003_2023.csv"
+output_file = CLEAN / "HepB_AgeSpecific_Incidence_2003_2023.csv"
 combined.to_csv(output_file, index=False, encoding="utf-8-sig")
 
 print("\nCombined dataset saved:", output_file)
@@ -163,7 +173,7 @@ plt.legend(title="Age group")
 plt.grid(alpha=0.3)
 plt.tight_layout()
 
-plt.savefig("HepB_AgeSpecific_Incidence_Trends.png", dpi=300)
+plt.savefig(FIGS / "HepB_AgeSpecific_Incidence_Trends.png", dpi=300)
 plt.show()
 
 # Quantify incidence changes by age group (generate absolute and percent change from 2003 to 2023)
